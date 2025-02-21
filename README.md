@@ -1,5 +1,5 @@
 # MuseuPessoa2425
 
 ## Grupo2: 
--Beatriz
--Ana
+ - Beatriz
+ - Ana Margarida
