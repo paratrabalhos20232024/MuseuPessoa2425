@@ -1,2 +1,114 @@
 # Olá colega! 
 # Vamos arrasar neste trabalho!
+
+
+C:\Users\ASUS\Documents\MuseuPessoa2425>gh auth login
+? Where do you use GitHub? GitHub.com
+? What is your preferred protocol for Git operations on this host? HTTPS
+? Authenticate Git with your GitHub credentials? Yes
+? How would you like to authenticate GitHub CLI? Login with a web browser
+
+! First copy your one-time code: E363-5A32
+Press Enter to open github.com in your browser...
+✓ Authentication complete.
+- gh config set -h github.com git_protocol https
+✓ Configured git protocol
+✓ Logged in as paratrabalhos20232024
+
+C:\Users\ASUS\Documents\MuseuPessoa2425>git commit README.md -m "coloquei mais uma linha"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'ASUS@LAPTOP-FAOOBIVG.(none)')
+
+C:\Users\ASUS\Documents\MuseuPessoa2425>git push
+Everything up-to-date
+
+C:\Users\ASUS\Documents\MuseuPessoa2425>git commit README.md -m "coloquei mais uma linha"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'ASUS@LAPTOP-FAOOBIVG.(none)')
+
+C:\Users\ASUS\Documents\MuseuPessoa2425>git config
+error: no action specified
+
+C:\Users\ASUS\Documents\MuseuPessoa2425>git config --global user.name "paratrabalhos20232024"
+
+C:\Users\ASUS\Documents\MuseuPessoa2425>git commit README.md -m "coloquei mais uma linha"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'ASUS@LAPTOP-FAOOBIVG.(none)')
+
+C:\Users\ASUS\Documents\MuseuPessoa2425>git config --global user.email "paratrabalhos20232024@gmail.com"
+
+C:\Users\ASUS\Documents\MuseuPessoa2425>git commit README.md -m "coloquei mais uma linha"
+[main fba81a3] coloquei mais uma linha
+ 1 file changed, 3 insertions(+)
+
+C:\Users\ASUS\Documents\MuseuPessoa2425>git pull
+Already up to date.
+
+C:\Users\ASUS\Documents\MuseuPessoa2425>git commit README.md -m "coloquei mais uma linha"
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+C:\Users\ASUS\Documents\MuseuPessoa2425>git push
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 357 bytes | 357.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/paratrabalhos20232024/MuseuPessoa2425.git
+   a1cac95..fba81a3  main -> main
+
+C:\Users\ASUS\Documents\MuseuPessoa2425>
+
+
+_____________________________
+
+quais são os metadados úteis para este projeto?
+
+entrevista piloto (markdown ou txt): perguntas: ver dependendo da pessoa
+
+usar uma ferramenta para fazer a transcrição, qualquer transcrição
+
+
+
+pasta da entrevista, pasta da transcrição
+
+entrevista_do_manel.md
+.jpg
+.mp3
