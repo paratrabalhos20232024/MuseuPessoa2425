@@ -1,14 +1,16 @@
 ---
+title: Memórias de Infância
 date_interview: 01-03-2025
 interviewee: Maria Maxhado
 interviewer: Beatriz Oliveira
 date of birth: 1978
+Foto: 
 notes: A transcrição da entervista foi feita usando o TurboScribe.ai que converteu o texto para um formato Txt que depois teve que ser revisto mas tornou o processo mais fácil e rápido. Depois decidi passar a entervista para um formato Markdown para poder organizar melhor. 
 ---
 
 # Entrevista a Maria Machado
 
-![Maria Machado com os seus pais](Entrevista_Maria.png)
+![Maria Machado com os seus pais](Fotografia_Maria.png)
 
 <interviewer>Olá, boa tarde. Pode-se apresentar, por favor?</interviewer>
 
