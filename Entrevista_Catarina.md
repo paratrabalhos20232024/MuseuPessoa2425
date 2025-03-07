@@ -1,6 +1,6 @@
 ---
 date: 03-03-2025
-speaker 1: Margarida Cardoso~
+speaker 1: Margarida Cardoso
 speaker 2: Catarina Pereira
 ---
 # Entrevista com Catarina Pereira
