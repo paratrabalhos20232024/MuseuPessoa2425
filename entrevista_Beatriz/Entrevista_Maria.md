@@ -4,7 +4,7 @@ date_interview: 01-03-2025
 interviewee: Maria Maxhado
 interviewer: Beatriz Oliveira
 date of birth: 1978
-Foto: 
+image: Fotografia de maria Machado com os seus pais, tal como disse na entervista, é a memória mais feliz que tem.
 notes: A transcrição da entervista foi feita usando o TurboScribe.ai que converteu o texto para um formato Txt que depois teve que ser revisto mas tornou o processo mais fácil e rápido. Depois decidi passar a entervista para um formato Markdown para poder organizar melhor. 
 ---
 
