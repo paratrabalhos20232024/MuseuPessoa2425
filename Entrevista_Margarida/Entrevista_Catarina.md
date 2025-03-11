@@ -7,6 +7,7 @@ foto: Entrega do diploma
 ---
 # Entrevista com Catarina Pereira
 ![Catarina Pereira](foto_Catarina.jpg) 
+
 **Foto:** Entrega do diploma de fim da licenciatura em Línguas, Literaturas e Culturas, na Universidade de Aveiro.
 
 **Speaker 1:**
