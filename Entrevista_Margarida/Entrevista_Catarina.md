@@ -1,10 +1,13 @@
 ---
 date: 03-03-2025
+name: Olhos no futuro
 speaker 1: Margarida Cardoso
 speaker 2: Catarina Pereira
+foto: Entrega do diploma
 ---
 # Entrevista com Catarina Pereira
-![Catarina Pereira](foto_Catarina.jpg)
+![Catarina Pereira](foto_Catarina.jpg) 
+
 **Speaker 1:**
 Olá a todos. Estamos aqui para mais uma entrevista Hoje com a Catarina Pereira, que é estudante do segundo ano do Mestrado em ensino de inglês e de língua estrangeira, no terceiro ciclo do ensino básico e no ensino secundário na especialidade de espanhol na Universidade de Aveiro. Hoje esta entrevista tem como objetivo por a trajetória académica da entrevistada identificar. Os momentos decisivos que mudaram suas escolhas e planos futuros. Além disso, procura-se compreender como é essa experiência. Influenciam-se o âmbito, as suas ambições. E estratégias para os próximos anos, oferecendo uma Visão integrada do desenvolvimento pessoal e profissional. Olá Catarina Olá, então mas a primeira pergunta vai ser, **qual foi o momento mais marcante da tua trajetória académica e de que forma influencia os teus planos para o futuro?**
 
