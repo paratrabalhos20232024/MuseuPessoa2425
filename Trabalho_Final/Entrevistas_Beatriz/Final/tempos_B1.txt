@@ -1,0 +1,9 @@
+=== Tempos Verbais e Modos Detetados ===
+Cnd: 8
+Fut: 11
+Ind: 297
+Pres: 111
+Past: 88
+Imp: 104
+Sub: 20
+Pqp: 1

@@ -1,0 +1,369 @@
+12	escola
+10	dia
+8	a minha mãe
+7	os meus pais
+7	Pronto
+5	casa
+5	minha infância
+5	meus pais
+5	o meu irmão
+5	termos
+5	mim
+5	neve
+4	sua infância
+4	café
+4	a minha avó
+4	minha avó
+4	o meu pai
+4	um bocado
+4	infância
+4	outro
+4	dele
+3	fim de semana
+3	a próxima pergunta
+3	tema
+3	um bocadinho
+3	Mãe Natureza
+3	a escola
+3	brincadeira
+3	quarto ano
+3	contacto
+3	deles
+3	as pessoas
+3	a minha infância
+3	Portugal
+3	esse dia
+2	a sua disponibilidade
+2	esta entrevista
+2	um negócio
+2	Joane
+2	crianças
+2	para mim
+2	uma infância muito feliz
+2	o café
+2	beira
+2	leite
+2	sua rotina
+2	época
+2	a Mãe Natureza
+2	dias
+2	mato
+2	o jogo
+2	verão
+2	Varzim
+2	praia
+2	altura
+2	vida
+2	uma amiga
+2	causa
+2	a família
+2	Carina
+2	dúvida
+2	medo
+2	pau
+2	férias
+2	parabéns
+2	esse ambiente
+2	raciocínio
+2	o Natal
+2	lixívia
+2	o armário
+2	berros
+2	um dia
+2	com o meu irmão
+1	o meu nome
+1	o seu nome
+1	a sua idade
+1	oportunidade
+1	O meu nome
+1	21 anos
+1	Olá Carina
+1	a entrevista
+1	junho
+1	Hospital
+1	Famalicão
+1	Ronfe
+1	a Guimarães
+1	uma freguesia
+1	construção
+1	nossa casa
+1	meu tio
+1	meus avós paternos
+1	outubro
+1	a mudança
+1	a nossa casa
+1	apesar disto
+1	não na minha casa
+1	minha casa
+1	um café
+1	também na casa
+1	meus avós maternos
+1	sua casa
+1	Como é que era a sua casa
+1	o ambiente
+1	ou seja um ambiente
+1	muitas pessoas
+1	trabalho
+1	uma criança
+1	tantas horas
+1	aquela atenção
+1	pais
+1	as crianças
+1	sexta-feira
+1	minha avó materna
+1	sábado
+1	manhã
+1	uma feirinha
+1	o meu avô
+1	pequeno almoço
+1	leite normal
+1	o Nesquik
+1	os dias
+1	as minhas primas
+1	atenção
+1	uma pequena introdução
+1	um dia típico
+1	a abertura
+1	o pequeno almoço
+1	uma escola primária
+1	mesma
+1	essa escola
+1	muitas árvores
+1	nós crianças
+1	a nossa brincadeira
+1	E pronto era só isso
+1	O dia
+1	aulas
+1	sua brincadeira
+1	brincadeiras
+1	alguma brincadeira
+1	atividade
+1	Lá está nessa primária
+1	a terra
+1	um pequeno campo
+1	a ginástica
+1	algum espaço
+1	muitas pedras
+1	pedra
+1	as Winx
+1	magia
+1	as árvores
+1	as minhas colegas
+1	a outra primária
+1	campos
+1	futebol
+1	mas em termos
+1	meninas
+1	essas brincadeiras
+1	as Monster High
+1	Egito
+1	termos mais familiares
+1	com os meus primos
+1	com os meus pais
+1	bola
+1	estica
+1	aqueles pauzinhos
+1	assim na Terra
+1	essa experiência
+1	Terra
+1	com formigas
+1	Sim é uma experiência bastante universal
+1	algum cheiro
+1	som
+1	sabor
+1	Um sabor
+1	com o meu padrinho
+1	a praia
+1	para a Póvoa
+1	uma sopa
+1	cenoura
+1	pevido
+1	frango
+1	marmitinha comprida à azul
+1	sopa
+1	aquela sopa
+1	na praia
+1	essa fase
+1	sempre na sopa
+1	avó
+1	o sabor
+1	A minha mãe
+1	essa sopa
+1	daqueles momentos
+1	um sabor
+1	a sopa
+1	aos seus amigos
+1	Então como foi a sua experiência
+1	a verdade
+1	coisas novas
+1	turma
+1	aquela pessoa
+1	a professora
+1	a atenção
+1	aspecto
+1	muitos recados
+1	de asneiras
+1	uma altura
+1	estudo
+1	dificuldades
+1	intervalo
+1	a brincadeira
+1	Mesmo em casa
+1	minha altura
+1	aqueles exames
+1	exames finais
+1	a minha sorte
+1	disciplinas
+1	os exames
+1	primária
+1	esse problemazinho
+1	Como é que eram os seus amigos
+1	muitas boas memórias
+1	meus colegas
+1	país
+1	região
+1	uma menina
+1	a Póvoa
+1	essa menina
+1	os primos
+1	amiga
+1	que fomos a primeira amiga
+1	os parabéns
+1	essa pequena ligação
+1	de ter sido a primeira amiga
+1	algumas amigas
+1	negócio
+1	mas era de Ronfe
+1	catequese
+1	As únicas
+1	professores
+1	algum professor
+1	professora
+1	sexto ano
+1	um professor
+1	matemática
+1	Carlos
+1	Castro
+1	a postura super
+1	o gosto
+1	pela matemática
+1	presente
+1	esse meu professor
+1	outros professores muito bons
+1	os seus pais
+1	irmãos
+1	um irmão mais velho
+1	quatro anos
+1	rapaz
+1	ou seja era sempre aquele mix
+1	emoções amor-ódio
+1	batatada
+1	mais força
+1	asneiras
+1	missa
+1	senão nós
+1	até na missa
+1	porcaria
+1	batatada mesmo
+1	à chapada
+1	duas crianças
+1	era com o meu pai
+1	direitinho
+1	ou seja com o meu pai
+1	essa postura
+1	só o facto
+1	o facto
+1	a nossa história familiar
+1	possibilidades
+1	apesar de tudo
+1	momentos
+1	descontração
+1	domingo
+1	um passeio
+1	uma boa relação familiar
+1	algum momento
+1	o ano
+1	Obviamente que era o meu aniversário
+1	minha volta
+1	prendas
+1	As crianças
+1	A festinha
+1	os amigos
+1	aquelas porcarias
+1	as mães
+1	todos os dias
+1	Os primos
+1	os tios
+1	meu dia
+1	anos
+1	o dia
+1	Essa reunião
+1	família
+1	nada melhor do que isso
+1	esses momentos familiares e muito felizes
+1	Muito bem Carina
+1	uns bons momentos felizes
+1	realmente para nós
+1	A nossa entrevista
+1	mais duas perguntas
+1	delas
+1	alguma lembrança marcante
+1	Positiva
+1	ainda na mesma linha
+1	um ano
+1	concreto
+1	mesa cheia
+1	karaoke
+1	bingo
+1	rodela
+1	Negativamente uma coisa
+1	meu irmão
+1	mas é a pessoa
+1	a nossa infância
+1	uma piscina
+1	a mania
+1	os seus óculos
+1	natação
+1	Diogo
+1	ninguém
+1	não é Carina sendo Carina
+1	um chica esperta
+1	o balde
+1	um balde
+1	criança
+1	o pé
+1	os óculos
+1	prateleira
+1	um estrondo
+1	Um estrondo
+1	quase os vizinhos
+1	a maneira
+1	mesmo fio
+1	armário
+1	Definitivamente não não seria esse
+1	Seria por exemplo o dia
+1	data
+1	aniversário
+1	meu avô paterno
+1	a vida
+1	a história
+1	janeiro
+1	toda contente
+1	lá com os filhos
+1	vizinhos
+1	apartamentos
+1	mais crianças
+1	mesmo hoje em dia
+1	normal
+1	Estava com os meus pais
+1	ou seja nós
+1	uma memória
+1	a neve
+1	Oh Carina
+1	um anjinho
+1	os braços
+1	a burra
+1	obviamente eu
+1	uma porrada
+1	mais nenhuma pergunta
+1	um bom dia

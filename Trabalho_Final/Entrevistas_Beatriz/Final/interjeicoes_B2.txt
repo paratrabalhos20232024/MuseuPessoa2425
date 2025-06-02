@@ -1,0 +1,12 @@
+pronto: 10
+tipo: 2
+então: 12
+basicamente: 1
+coisas: 4
+bem: 6
+ok: 2
+realmente: 5
+claro: 2
+assim: 1
+logo: 2
+coisa: 2

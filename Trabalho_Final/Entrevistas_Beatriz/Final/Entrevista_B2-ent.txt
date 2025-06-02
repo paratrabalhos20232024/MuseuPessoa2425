@@ -1,0 +1,19 @@
+      1 Beatriz Oliveira	PROPN	PER	nsubj	500000
+      1 Famalicão	PROPN	LOC	nmod	31874
+      1 Histórias	PROPN	MISC	ROOT	11084
+      1 João	PROPN	MISC	nsubj	426
+      1 Mogege	PROPN	LOC	xcomp	500001
+      1 Natal	PROPN	MISC	conj	1408
+      1 Natal	PROPN	MISC	nsubj	1408
+      1 Natal	PROPN	MISC	obj	1408
+      1 O Rego	PROPN	MISC	ROOT	500004
+      1 Obrigada	PROPN	obrigada	ROOT	3749
+      1 Playstation	PROPN	MISC	appos	24168
+      1 Rego	PROPN	LOC	nsubj	23581
+      1 Rego	PROPN	LOC	obl	23581
+      1 Rego	PROPN	PER	nsubj	23581
+      1 WWE	PROPN	ORG	nmod	15225
+      1 Yu-Gi-Oh!	PROPN	MISC	nmod	500003
+      1 tratava-nos	PROPN	tratava-nos	advcl	18446744073709551615
+      2 Playstation	PROPN	MISC	obj	24168
+      2 Playstation 2	PROPN	MISC	nmod	500002

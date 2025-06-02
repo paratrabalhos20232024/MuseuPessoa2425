@@ -1,0 +1,286 @@
+
+===== Trecho 1 =====
+Bloco de palavras 1 (Positiva, estrelas=5): Boa tarde, sou o João e tenho 22 anos.
+
+Classificação média do trecho (por blocos): 5.00 estrelas
+
+===== Trecho 2 =====
+Bloco de palavras 1 (Neutra, estrelas=3): Eu nasci numa aldeia em Famalicão chamada Mogege, bastante pacata,
+Bloco de palavras 2 (Muito negativa, estrelas=1): que não tem nada, tipo, para aí uns três cafés,
+Bloco de palavras 3 (Neutra, estrelas=3): mas é bastante rodeado de natureza e um sítio tranquilo
+Bloco de palavras 4 (Neutra, estrelas=3): em geral, que eu diria que foi muito bom para
+Bloco de palavras 5 (Positiva, estrelas=5): a minha infância. <interviewer>Como era a sua casa e o
+Bloco de palavras 6 (Neutra, estrelas=3): ambiente onde você viveu na sua infância?</interviewer> <interviewee>A minha casa
+Bloco de palavras 7 (Muito negativa, estrelas=2): era muito parecida à das outras pela zona, era uma
+Bloco de palavras 8 (Neutra, estrelas=3): casa mais ou menos grande, com algum terreno, mas que
+Bloco de palavras 9 (Neutra, estrelas=3): no entanto já era bastante antiga, então às vezes nos
+Bloco de palavras 10 (Neutra, estrelas=3): invernos era bastante fria, no verão era bastante quente, mas
+Bloco de palavras 11 (Muito negativa, estrelas=1): nada que não se aguentasse. O mais importante, eu diria,
+Bloco de palavras 12 (Neutra, estrelas=3): era até o facto de eu viver muito perto da
+Bloco de palavras 13 (Neutra, estrelas=3): minha família, eles viviam do outro lado da estrada, basicamente,
+Bloco de palavras 14 (Positiva, estrelas=4): então deu um ambiente muito bom para eu crescer, visto
+Bloco de palavras 15 (Positiva, estrelas=5): que eu estava constantemente com os meus familiares e podia
+Bloco de palavras 16 (Positiva, estrelas=5): ir para o grande terreno dos meus avós, que até
+Bloco de palavras 17 (Positiva, estrelas=5): tinha animais e tudo, que eu gostava muito. Foi engraçado.
+
+Classificação média do trecho (por blocos): 3.24 estrelas
+
+===== Trecho 3 =====
+Bloco de palavras 1 (Muito negativa, estrelas=2): Sim, era acordar, sempre arrogente e sonolento, lembro que a
+Bloco de palavras 2 (Neutra, estrelas=3): minha mãe às vezes até me tinha de vestir e
+Bloco de palavras 3 (Muito negativa, estrelas=1): tudo, porque eu não queria ir para a escola, depois
+Bloco de palavras 4 (Neutra, estrelas=3): era tomar o pequeno almoço, que era sempre o clássico,
+Bloco de palavras 5 (Positiva, estrelas=5): leite com cereais, ia fazer toda aquela rotina, lavar os
+Bloco de palavras 6 (Muito negativa, estrelas=1): dentes, lavar a cara, o que fosse, e depois ia
+Bloco de palavras 7 (Neutra, estrelas=3): para a escola. A maior parte das vezes ia a
+Bloco de palavras 8 (Positiva, estrelas=5): pé com a minha tia e o meu primo, o
+Bloco de palavras 9 (Muito negativa, estrelas=1): que também era engraçado, e quando chegava lá, tinha as
+Bloco de palavras 10 (Positiva, estrelas=4): aulas que tinha a ter, tinha os intervalos que era
+Bloco de palavras 11 (Positiva, estrelas=5): a minha parte favorita, em que eu brincava, jogava futebol,
+Bloco de palavras 12 (Muito negativa, estrelas=2): esse tipo de coisas, depois quando chegava mais ou menos
+Bloco de palavras 13 (Muito negativa, estrelas=1): pelas cinco, cinco e um quarto, voltava de casa à
+Bloco de palavras 14 (Positiva, estrelas=5): pé, que a minha tia ia buscar a mim e
+Bloco de palavras 15 (Muito negativa, estrelas=2): ao meu primo, ficava a brincar no quintal dela, até
+Bloco de palavras 16 (Positiva, estrelas=5): os meus pais chegarem do trabalho, porque eles faziam horas
+Bloco de palavras 17 (Neutra, estrelas=3): extras na altura, depois ia para casa, jogava Playstation com
+Bloco de palavras 18 (Positiva, estrelas=5): o meu irmão, ou fazia os trabalhos de casa, o
+Bloco de palavras 19 (Muito negativa, estrelas=1): que fosse, e ia dormir e repetia no dia seguinte.
+
+Classificação média do trecho (por blocos): 3.00 estrelas
+
+===== Trecho 4 =====
+Bloco de palavras 1 (Positiva, estrelas=5): Eu gostava muito, e lembro-me bastante bem, de jogar futebol
+Bloco de palavras 2 (Neutra, estrelas=3): nos intervalos, que nós, que ela era uma escola pequena,
+Bloco de palavras 3 (Muito negativa, estrelas=1): então só tinha duas turmas no nosso ano, e nós
+Bloco de palavras 4 (Muito negativa, estrelas=2): fazíamos, tínhamos meio que uma rivalidade com a outra turma,
+Bloco de palavras 5 (Muito negativa, estrelas=2): então eu gostava muito de jogar futebol. Mas também tinha
+Bloco de palavras 6 (Muito negativa, estrelas=2): outras coisas, na parte da Playstation 2, também era incrível
+Bloco de palavras 7 (Positiva, estrelas=5): jogar com o meu irmão, adorava principalmente o jogo de
+Bloco de palavras 8 (Muito negativa, estrelas=2): WWE, porque era de andar à porrada, então era bastante
+Bloco de palavras 9 (Muito negativa, estrelas=1): engraçado, e sim, acho que é isso. Também acabei por
+Bloco de palavras 10 (Neutra, estrelas=3): ter uma coleção, na altura fazia coleção de cartas de
+Bloco de palavras 11 (Positiva, estrelas=5): Yu-Gi-Oh!, o que era muito bom, porque às vezes chovia,
+Bloco de palavras 12 (Muito negativa, estrelas=1): não dava para jogar à bola, então nós jogávamos Yu-Gi-Oh!
+Bloco de palavras 13 (Muito negativa, estrelas=2): uns com os outros. Sim.
+
+Classificação média do trecho (por blocos): 2.62 estrelas
+
+===== Trecho 5 =====
+Bloco de palavras 1 (Neutra, estrelas=3): Principalmente o cheiro da manhã, no que toca ao cheiro
+Bloco de palavras 2 (Muito negativa, estrelas=2): eu acho que é isso, eu não consigo explicar-lhe exatamente,
+Bloco de palavras 3 (Neutra, estrelas=3): mas quando ia a pé para a escola, estava sempre
+Bloco de palavras 4 (Muito negativa, estrelas=2): com meio que um nevoeiro, um frio, mas aquilo tinha
+Bloco de palavras 5 (Positiva, estrelas=5): um cheiro particular, que eu me lembro até hoje. Sabores,
+Bloco de palavras 6 (Muito negativa, estrelas=2): não sei tanto, a não ser aquelas sopas que eles
+Bloco de palavras 7 (Muito negativa, estrelas=1): nos obrigavam a comer ao almoço, que eram intragáveis, não
+Bloco de palavras 8 (Muito negativa, estrelas=2): gostava nada daquilo, para ser honesto, mas tinha que ser,
+Bloco de palavras 9 (Positiva, estrelas=5): e lembro que nós até fazíamos um jogo, que era
+Bloco de palavras 10 (Positiva, estrelas=5): tapar o nariz e comer o mais rápido possível, e
+Bloco de palavras 11 (Positiva, estrelas=5): quem comesse aquilo o mais rápido possível ganhava. Sons, nunca
+Bloco de palavras 12 (Muito negativa, estrelas=2): me vou esquecer do som daquelas vozes estridentes de miúdos
+Bloco de palavras 13 (Muito negativa, estrelas=1): a gritar golo, sempre que se marcava um golo, talvez
+Bloco de palavras 14 (Positiva, estrelas=5): porque até hoje, como a casa da minha avó ainda
+Bloco de palavras 15 (Neutra, estrelas=3): é bastante perto da escola, às vezes ainda ouço os
+Bloco de palavras 16 (Positiva, estrelas=5): miúdos hoje em dia a gritar golo, e faz-me sempre
+Bloco de palavras 17 (Positiva, estrelas=4): recordar dessa época, o que até é bastante engraçado.
+
+Classificação média do trecho (por blocos): 3.24 estrelas
+
+===== Trecho 6 =====
+Bloco de palavras 1 (Neutra, estrelas=3): A minha experiência na escola eu diria que foi bastante
+Bloco de palavras 2 (Positiva, estrelas=4): boa, como era uma escola nessa mesma aldeia, e era
+Bloco de palavras 3 (Muito negativa, estrelas=2): bastante pequena, as turmas conheciam-se todas, as pessoas conheciam-se todas,
+Bloco de palavras 4 (Positiva, estrelas=5): era um ambiente muito bom. Agora, gostar de estudar, na
+Bloco de palavras 5 (Neutra, estrelas=3): altura gostava, realmente, depois pronto, as coisas ficam diferentes, mas
+Bloco de palavras 6 (Neutra, estrelas=3): na altura lembro-me que gostava bastante, até lia bastante, e
+Bloco de palavras 7 (Positiva, estrelas=5): tudo, o que era surpreendente para uma criança daquela altura,
+Bloco de palavras 8 (Neutra, estrelas=3): mas sim, eu diria que sim, foi uma experiência de
+Bloco de palavras 9 (Positiva, estrelas=5): escola muito positiva.
+
+Classificação média do trecho (por blocos): 3.67 estrelas
+
+===== Trecho 7 =====
+Bloco de palavras 1 (Positiva, estrelas=5): Os meus amigos de infância também foram incríveis. Nós sempre
+Bloco de palavras 2 (Positiva, estrelas=5): fomos muito chegados, alguns de nós vinham já desde o
+Bloco de palavras 3 (Positiva, estrelas=5): infantário, e quando nós chegámos lá, à escola primária, éramos
+Bloco de palavras 4 (Muito negativa, estrelas=2): muito unidos, não sei, era uma espécie de dinâmica de
+Bloco de palavras 5 (Positiva, estrelas=5): grupo muito boa, como uma turma inteira. Então eu lembro-me
+Bloco de palavras 6 (Positiva, estrelas=5): muito bem deles, e lembro-me, tenho muitas recordações com eles.
+Bloco de palavras 7 (Neutra, estrelas=3): Claro que ao longo dos anos alguns foram saindo das
+Bloco de palavras 8 (Positiva, estrelas=5): turmas, por o quer que seja, e no décimo ano
+Bloco de palavras 9 (Neutra, estrelas=3): dividiu-se tudo, mas o percurso escolar foi quase tudo feito
+Bloco de palavras 10 (Positiva, estrelas=5): com essas mesmas pessoas, e eu gostei muito. Agora, se
+Bloco de palavras 11 (Neutra, estrelas=3): mantém um contacto? Sim, alguns deles mantêm um contacto, a
+Bloco de palavras 12 (Positiva, estrelas=4): maior parte deles eu vejo-os por aí e cumprimento, e
+Bloco de palavras 13 (Neutra, estrelas=3): acho que ainda existe uma relação de amizade, mas o
+Bloco de palavras 14 (Positiva, estrelas=5): mais importante é mesmo um específico, que até hoje eu
+Bloco de palavras 15 (Positiva, estrelas=5): faço tudo com ele. Até posso dizer que até hoje
+Bloco de palavras 16 (Positiva, estrelas=5): ele é o meu melhor amigo.
+
+Classificação média do trecho (por blocos): 4.25 estrelas
+
+===== Trecho 8 =====
+Bloco de palavras 1 (Positiva, estrelas=5): Como era uma escola muito pequena, nós tivemos... eu tive
+Bloco de palavras 2 (Positiva, estrelas=5): a mesma professora do primeiro ao quarto ano, e essa
+Bloco de palavras 3 (Positiva, estrelas=5): professora foi talvez uma das pessoas mais importantes, e que
+Bloco de palavras 4 (Neutra, estrelas=3): eu me lembro mais da minha infância, porque realmente ela
+Bloco de palavras 5 (Muito negativa, estrelas=2): tratava-nos quase como filhos. Nós éramos a única turma dela,
+Bloco de palavras 6 (Positiva, estrelas=5): estávamos constantemente com ela, e era incrível a atenção e
+Bloco de palavras 7 (Neutra, estrelas=3): o quanto ela se importava connosco. Apesar de ela já
+Bloco de palavras 8 (Neutra, estrelas=3): ter alguma idade na altura e, pronto, ainda ter alguns
+Bloco de palavras 9 (Neutra, estrelas=3): hábitos de reguada, no sentido em que gostava de uma
+Bloco de palavras 10 (Neutra, estrelas=3): disciplina mais severa, mesmo assim tratava-nos bem. Para não falar
+Bloco de palavras 11 (Neutra, estrelas=3): que para mim em específico, ela acabou por ser a
+Bloco de palavras 12 (Positiva, estrelas=5): pessoa que suscitou o meu amor pela leitura e pela
+Bloco de palavras 13 (Muito negativa, estrelas=2): escrita, principalmente a escrita, porque ela dizia que eu tinha
+Bloco de palavras 14 (Neutra, estrelas=3): bastante jeito e até houve certas ocasiões em que ela
+Bloco de palavras 15 (Positiva, estrelas=5): pegava nas minhas composições e mandava para o agrupamento de
+Bloco de palavras 16 (Neutra, estrelas=3): escolas da altura, que até ficava naqueles quadros engraçados de
+Bloco de palavras 17 (Neutra, estrelas=3): cortiça.
+
+Classificação média do trecho (por blocos): 3.59 estrelas
+
+===== Trecho 9 =====
+Bloco de palavras 1 (Muito negativa, estrelas=2): Sim, sinto que foi bastante sortudo nisso da família. A
+Bloco de palavras 2 (Neutra, estrelas=3): família não é algo que nós escolhemos e eu, por
+Bloco de palavras 3 (Neutra, estrelas=3): acaso, tive uma lotaria bastante boa. Bastante sorte. Os meus
+Bloco de palavras 4 (Positiva, estrelas=5): pais sempre foram bastante compreensivos e gentis, sempre envolvidos na
+Bloco de palavras 5 (Positiva, estrelas=5): minha vida, sempre disponíveis para o que quer que fosse,
+Bloco de palavras 6 (Positiva, estrelas=5): sempre estiveram lá e nunca me trataram mal em nenhuma
+Bloco de palavras 7 (Positiva, estrelas=5): ocasião. O que eu posso dizer que estou bastante feliz
+Bloco de palavras 8 (Positiva, estrelas=5): por ter tido os pais que tenho. O meu irmão
+Bloco de palavras 9 (Positiva, estrelas=5): mais velho também é nessa onda. Nós sempre tivemos uma
+Bloco de palavras 10 (Positiva, estrelas=5): relação incrível. Ele sempre foi aquela figura de irmão mais
+Bloco de palavras 11 (Positiva, estrelas=5): velho que estava sempre lá e ele acabou também por
+Bloco de palavras 12 (Positiva, estrelas=5): ser o meu ídolo na infância, para ser honesto, e
+Bloco de palavras 13 (Positiva, estrelas=4): ensinou-me bastantes coisas. Se hoje eu gosto de tecnologia, de
+Bloco de palavras 14 (Positiva, estrelas=5): jogos, de história, era porque nós realmente passávamos muito tempo
+Bloco de palavras 15 (Positiva, estrelas=5): um com o outro. Lembro-me que nós adorávamos ver o
+Bloco de palavras 16 (Positiva, estrelas=5): canal Histórias juntos e de jogar jogos juntos, como eu
+Bloco de palavras 17 (Neutra, estrelas=3): disse anteriormente, aquele da Playstation 2. Realmente, na parte familiar,
+Bloco de palavras 18 (Positiva, estrelas=5): sinto que tive mesmo, mesmo muita sorte.
+
+Classificação média do trecho (por blocos): 4.44 estrelas
+
+===== Trecho 10 =====
+Bloco de palavras 1 (Muito negativa, estrelas=2): Sim. Na minha infância, como nós vivíamos todos perto uns
+Bloco de palavras 2 (Neutra, estrelas=3): dos outros, no domingo à noite, depois de jantar, nós
+Bloco de palavras 3 (Positiva, estrelas=5): juntávamos todos, quase todos os domingos, na casa da minha
+Bloco de palavras 4 (Muito negativa, estrelas=1): avó, acendíamos a lareira e ficávamos só lá a conversar,
+Bloco de palavras 5 (Positiva, estrelas=5): os tios, os pais, os primos, as avós, claro que
+Bloco de palavras 6 (Positiva, estrelas=5): era a casa deles. E eu lembro-me com muito carinho
+Bloco de palavras 7 (Positiva, estrelas=5): essa altura, porque era um ambiente muito familiar, muito confortável,
+Bloco de palavras 8 (Muito negativa, estrelas=1): e que eu ficava sentado na carpete, em frente à
+Bloco de palavras 9 (Positiva, estrelas=5): lareira, a fazer desenhos, ou a brincar com os meus
+Bloco de palavras 10 (Neutra, estrelas=3): primos, ou a brincar com os meus brinquedos, mas o
+Bloco de palavras 11 (Positiva, estrelas=5): que eu me lembro mesmo é da sensação incrível de
+Bloco de palavras 12 (Positiva, estrelas=5): estar lá. E é engraçado, é engraçado pensar nisso, como
+Bloco de palavras 13 (Positiva, estrelas=5): tão naturalmente algo, como isso acontecia, como toda a gente
+Bloco de palavras 14 (Neutra, estrelas=3): estava lá todos os domingos para estar uns com os
+Bloco de palavras 15 (Neutra, estrelas=3): outros. Eu acho que é uma tradição especial, eu diria,
+Bloco de palavras 16 (Positiva, estrelas=5): que tínhamos naquela altura.
+
+Classificação média do trecho (por blocos): 3.81 estrelas
+
+===== Trecho 11 =====
+Bloco de palavras 1 (Positiva, estrelas=4): Na minha infância, talvez o que não é surpresa para
+Bloco de palavras 2 (Neutra, estrelas=3): ninguém, mas é definitivamente o Natal. O facto de a
+Bloco de palavras 3 (Positiva, estrelas=5): mesa estar cheia de doces, a família toda reunida, aquela
+Bloco de palavras 4 (Positiva, estrelas=5): antecipação e ansiedade para chegar à meia-noite, para poder ir
+Bloco de palavras 5 (Positiva, estrelas=5): buscar os presentes todos. Como a minha família já nessa
+Bloco de palavras 6 (Positiva, estrelas=5): altura tinha boas relações uns com os outros, e sempre
+Bloco de palavras 7 (Neutra, estrelas=3): tiveram, de forma geral, o Natal era mesmo o momento
+Bloco de palavras 8 (Neutra, estrelas=3): mais especial do ano, eu diria. Sim, era definitivamente que
+Bloco de palavras 9 (Neutra, estrelas=3): a época do ano que eu mais gostava era o
+Bloco de palavras 10 (Positiva, estrelas=4): Natal.
+
+Classificação média do trecho (por blocos): 4.00 estrelas
+
+===== Trecho 12 =====
+Bloco de palavras 1 (Neutra, estrelas=3): Tenho uma recordação que é bastante engraçada e que até
+Bloco de palavras 2 (Positiva, estrelas=5): hoje me lembro muito bem. Houve um dia em que
+Bloco de palavras 3 (Muito negativa, estrelas=1): eu estava a brincar com mais dois colegas lá nessa
+Bloco de palavras 4 (Muito negativa, estrelas=1): escola, nós estávamos a brincar num sítio que nós chamávamos
+Bloco de palavras 5 (Muito negativa, estrelas=1): "O Rego". E aquilo o que é que era? "O
+Bloco de palavras 6 (Muito negativa, estrelas=2): Rego" era um pequeno corredor de terra que ficava entre
+Bloco de palavras 7 (Muito negativa, estrelas=1): uma espécie de muro. Como o campo tinha de ser
+Bloco de palavras 8 (Muito negativa, estrelas=2): construído e tinha que ser liso, ficou ali meio que
+Bloco de palavras 9 (Muito negativa, estrelas=1): um patamar diferente e criou um murozinho. E esse "o
+Bloco de palavras 10 (Muito negativa, estrelas=1): Rego" era um corredor de terra que ficava entre esse
+Bloco de palavras 11 (Muito negativa, estrelas=1): murozinho que ficou formado e a rede que depois dava
+Bloco de palavras 12 (Positiva, estrelas=5): para a floresta e dava para a saída da escola.
+Bloco de palavras 13 (Muito negativa, estrelas=1): Esse corredorzinho era engraçado porque tinha uma árvore que tinha
+Bloco de palavras 14 (Positiva, estrelas=5): as raízes expostas e nós usávamos essas raízes para subir
+Bloco de palavras 15 (Positiva, estrelas=5): esse tal muro para ir para o campo, quando nós
+Bloco de palavras 16 (Muito negativa, estrelas=1): estávamos lá a brincar. E uma ocasião, estava lá com
+Bloco de palavras 17 (Muito negativa, estrelas=1): esses dois colegas, estávamos a brincar, não sei o que
+Bloco de palavras 18 (Positiva, estrelas=5): é que estávamos a fazer, e um desses meus colegas
+Bloco de palavras 19 (Muito negativa, estrelas=2): que também era o mais pesado, o mais gordinho da
+Bloco de palavras 20 (Muito negativa, estrelas=1): escola, decidiu subir as raízes para subir o muro para
+Bloco de palavras 21 (Neutra, estrelas=3): fazer lá o que quer que seja. Só que enquanto
+Bloco de palavras 22 (Muito negativa, estrelas=1): ele estava a subir e já quase no topo, ele
+Bloco de palavras 23 (Muito negativa, estrelas=1): meteu o pé em falso, tropeçou, bateu com o queixo
+Bloco de palavras 24 (Muito negativa, estrelas=1): na parte de cima do muro e depois caiu de
+Bloco de palavras 25 (Muito negativa, estrelas=1): costas, inconsciente, se bem me recordo, outra vez no tal
+Bloco de palavras 26 (Muito negativa, estrelas=1): Rego. Imediatamente que eu e esse outro colega começámos logo
+Bloco de palavras 27 (Muito negativa, estrelas=1): a estressar, ele de imediato subiu o muro e foi
+Bloco de palavras 28 (Positiva, estrelas=5): correr à procura de qualquer auxiliar que conseguisse encontrar para
+Bloco de palavras 29 (Positiva, estrelas=5): nos vir ajudar. Eu olhei para o meu amigo, ele
+Bloco de palavras 30 (Muito negativa, estrelas=1): estava a sangrar, estava inconsciente, o que é que eu
+Bloco de palavras 31 (Muito negativa, estrelas=1): pensei como uma criança? Ele de certeza que está morto.
+Bloco de palavras 32 (Muito negativa, estrelas=2): Então, apesar dele ser, apesar dele ser para aí o
+Bloco de palavras 33 (Neutra, estrelas=3): dobro do peso que eu era, porque eu era bastante
+Bloco de palavras 34 (Neutra, estrelas=3): magrelo, ainda sou, mas na altura ainda era mais, provavelmente,
+Bloco de palavras 35 (Neutra, estrelas=3): sei lá, pela adrenalina, o que fosse, eu consegui arranjar
+Bloco de palavras 36 (Neutra, estrelas=3): força suficiente de pegar nele às costas, subir as raízes
+Bloco de palavras 37 (Neutra, estrelas=3): e levá-lo lá para cima. Entretanto, pronto, chegou lá uma
+Bloco de palavras 38 (Muito negativa, estrelas=1): auxiliar, um colega chamou a auxiliar e, sei lá, taparam
+Bloco de palavras 39 (Muito negativa, estrelas=1): o sangue, logo foi, chamaram a ambulância e levaram-no ao
+Bloco de palavras 40 (Muito negativa, estrelas=2): hospital. Ele, por acaso, teve sorte, não aconteceu grande coisa,
+Bloco de palavras 41 (Muito negativa, estrelas=1): ele só teve que levar uns pontos no queixo, o
+Bloco de palavras 42 (Neutra, estrelas=3): que, pronto, naquela altura era bastante, e foi uma criança
+Bloco de palavras 43 (Neutra, estrelas=3): principalmente. Mas o que mais me lembro dessa história é
+Bloco de palavras 44 (Muito negativa, estrelas=1): que, no dia seguinte, a mãe desse colega veio pessoalmente
+Bloco de palavras 45 (Positiva, estrelas=5): a casa a agradecer-me e até me queria dar dinheiro,
+Bloco de palavras 46 (Muito negativa, estrelas=2): que eu rejeitei na altura. Mas sim, foi engraçado. Até
+Bloco de palavras 47 (Muito negativa, estrelas=2): hoje não faço ideia como é que eu consegui levantar,
+Bloco de palavras 48 (Neutra, estrelas=3): mas consegui.
+
+Classificação média do trecho (por blocos): 2.23 estrelas
+
+===== Trecho 13 =====
+Bloco de palavras 1 (Neutra, estrelas=3): Houve um verão, não sei dizer que ano específico, mas
+Bloco de palavras 2 (Muito negativa, estrelas=1): o computador, que era o computador dele, só tínhamos o
+Bloco de palavras 3 (Muito negativa, estrelas=1): computador que era o dele, estava na sala. Nós estávamos
+Bloco de palavras 4 (Positiva, estrelas=5): nas férias de verão, ambos estávamos de férias, nossos pais
+Bloco de palavras 5 (Muito negativa, estrelas=2): iam dormir bastante cedo porque tinham de ir trabalhar, e
+Bloco de palavras 6 (Muito negativa, estrelas=1): ficámos os dois na sala. Ele ficava a jogar e
+Bloco de palavras 7 (Neutra, estrelas=3): eu gostava muito de me deitar na parte de encostar
+Bloco de palavras 8 (Positiva, estrelas=5): a cabeça do sofá e ficar a vê-lo a jogar.
+Bloco de palavras 9 (Positiva, estrelas=5): Eu punha-me aí porque pronto, nessa posição dava tanto para
+Bloco de palavras 10 (Positiva, estrelas=5): vê-lo a jogar e ver os desenhos animados na televisão
+Bloco de palavras 11 (Neutra, estrelas=3): ao mesmo tempo. Mas eu lembro-me bastante disso porque, não
+Bloco de palavras 12 (Neutra, estrelas=3): sei, alguma cena sobre ter os meus desenhos animados favoritos,
+Bloco de palavras 13 (Neutra, estrelas=3): aquela coisa de, no verão é quente, mas aquelas noites
+Bloco de palavras 14 (Muito negativa, estrelas=2): estavam mais frescas, vê-lo a jogar, não sei, às vezes
+Bloco de palavras 15 (Positiva, estrelas=5): até adormecia no sofá e tudo. É um ambiente que
+Bloco de palavras 16 (Positiva, estrelas=5): eu me recordo com muito carinho e, epá, gostava de
+Bloco de palavras 17 (Muito negativa, estrelas=1): repetir. Se pudesse repetir voltar no tempo por um dia
+Bloco de palavras 18 (Neutra, estrelas=3): e reviver o momento, provavelmente seria qualquer uma dessas noites,
+Bloco de palavras 19 (Positiva, estrelas=5): porque eu sinto mesmo que gostava. Gostava de todo o
+Bloco de palavras 20 (Positiva, estrelas=5): ambiente e de toda a sensação e de, sei lá,
+Bloco de palavras 21 (Positiva, estrelas=5): estar com o meu irmão, ter a televisão para mim,
+Bloco de palavras 22 (Positiva, estrelas=4): era muito interessante. Eu acho que ia para uma dessas
+Bloco de palavras 23 (Positiva, estrelas=5): noites.
+
+Classificação média do trecho (por blocos): 3.48 estrelas
+
+===== Trecho 14 =====
+Bloco de palavras 1 (Positiva, estrelas=5): Obrigada.
+
+Classificação média do trecho (por blocos): 5.00 estrelas
+
+===== Trecho 15 =====
+Bloco de palavras 1 (Positiva, estrelas=4): Boa tarde.
+
+Classificação média do trecho (por blocos): 4.00 estrelas

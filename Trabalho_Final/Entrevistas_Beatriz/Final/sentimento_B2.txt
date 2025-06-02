@@ -1,0 +1,140 @@
+
+===== Trecho 1 =====
+Frase 1 (Positiva, estrelas=5): Boa tarde, sou o João e tenho 22 anos
+
+Classificação média do trecho: 5.00 estrelas
+
+===== Trecho 2 =====
+Frase 1 (Neutra, estrelas=3): Eu nasci numa aldeia em Famalicão chamada Mogege, bastante pacata, que não tem nada, tipo, para aí uns três cafés, mas é bastante rodeado de natureza e um sítio tranquilo em geral, que eu diria que foi muito bom para a minha infância
+Frase 2 (Positiva, estrelas=5): <interviewer>Como era a sua casa e o ambiente onde você viveu na sua infância
+Frase 3 (Neutra, estrelas=3): </interviewer> <interviewee>A minha casa era muito parecida à das outras pela zona, era uma casa mais ou menos grande, com algum terreno, mas que no entanto já era bastante antiga, então às vezes nos invernos era bastante fria, no verão era bastante quente, mas nada que não se aguentasse
+Frase 4 (Positiva, estrelas=5): O mais importante, eu diria, era até o facto de eu viver muito perto da minha família, eles viviam do outro lado da estrada, basicamente, então deu um ambiente muito bom para eu crescer, visto que eu estava constantemente com os meus familiares e podia ir para o grande terreno dos meus avós, que até tinha animais e tudo, que eu gostava muito
+Frase 5 (Muito negativa, estrelas=1): Foi engraçado
+
+Classificação média do trecho: 3.40 estrelas
+
+===== Trecho 3 =====
+Frase 1 (Muito negativa, estrelas=2): Sim, era acordar, sempre arrogente e sonolento, lembro que a minha mãe às vezes até me tinha de vestir e tudo, porque eu não queria ir para a escola, depois era tomar o pequeno almoço, que era sempre o clássico, leite com cereais, ia fazer toda aquela rotina, lavar os dentes, lavar a cara, o que fosse, e depois ia para a escola
+Frase 2 (Muito negativa, estrelas=2): A maior parte das vezes ia a pé com a minha tia e o meu primo, o que também era engraçado, e quando chegava lá, tinha as aulas que tinha a ter, tinha os intervalos que era a minha parte favorita, em que eu brincava, jogava futebol, esse tipo de coisas, depois quando chegava mais ou menos pelas cinco, cinco e um quarto, voltava de casa à pé, que a minha tia ia buscar a mim e ao meu primo, ficava a brincar no quintal dela, até os meus pais chegarem do trabalho, porque eles faziam horas extras na altura, depois ia para casa, jogava Playstation com o meu irmão, ou fazia os trabalhos de casa, o que fosse, e ia dormir e repetia no dia seguinte
+
+Classificação média do trecho: 2.00 estrelas
+
+===== Trecho 4 =====
+Frase 1 (Positiva, estrelas=5): Eu gostava muito, e lembro-me bastante bem, de jogar futebol nos intervalos, que nós, que ela era uma escola pequena, então só tinha duas turmas no nosso ano, e nós fazíamos, tínhamos meio que uma rivalidade com a outra turma, então eu gostava muito de jogar futebol
+Frase 2 (Neutra, estrelas=3): Mas também tinha outras coisas, na parte da Playstation 2, também era incrível jogar com o meu irmão, adorava principalmente o jogo de WWE, porque era de andar à porrada, então era bastante engraçado, e sim, acho que é isso
+Frase 3 (Positiva, estrelas=5): Também acabei por ter uma coleção, na altura fazia coleção de cartas de Yu-Gi-Oh
+Frase 4 (Positiva, estrelas=5): , o que era muito bom, porque às vezes chovia, não dava para jogar à bola, então nós jogávamos Yu-Gi-Oh
+Frase 5 (Neutra, estrelas=3): uns com os outros
+Frase 6 (Neutra, estrelas=3): Sim
+
+Classificação média do trecho: 4.00 estrelas
+
+===== Trecho 5 =====
+Frase 1 (Neutra, estrelas=3): Principalmente o cheiro da manhã, no que toca ao cheiro eu acho que é isso, eu não consigo explicar-lhe exatamente, mas quando ia a pé para a escola, estava sempre com meio que um nevoeiro, um frio, mas aquilo tinha um cheiro particular, que eu me lembro até hoje
+Frase 2 (Neutra, estrelas=3): Sabores, não sei tanto, a não ser aquelas sopas que eles nos obrigavam a comer ao almoço, que eram intragáveis, não gostava nada daquilo, para ser honesto, mas tinha que ser, e lembro que nós até fazíamos um jogo, que era tapar o nariz e comer o mais rápido possível, e quem comesse aquilo o mais rápido possível ganhava
+Frase 3 (Positiva, estrelas=5): Sons, nunca me vou esquecer do som daquelas vozes estridentes de miúdos a gritar golo, sempre que se marcava um golo, talvez porque até hoje, como a casa da minha avó ainda é bastante perto da escola, às vezes ainda ouço os miúdos hoje em dia a gritar golo, e faz-me sempre recordar dessa época, o que até é bastante engraçado
+
+Classificação média do trecho: 3.67 estrelas
+
+===== Trecho 6 =====
+Frase 1 (Positiva, estrelas=4): A minha experiência na escola eu diria que foi bastante boa, como era uma escola nessa mesma aldeia, e era bastante pequena, as turmas conheciam-se todas, as pessoas conheciam-se todas, era um ambiente muito bom
+Frase 2 (Neutra, estrelas=3): Agora, gostar de estudar, na altura gostava, realmente, depois pronto, as coisas ficam diferentes, mas na altura lembro-me que gostava bastante, até lia bastante, e tudo, o que era surpreendente para uma criança daquela altura, mas sim, eu diria que sim, foi uma experiência de escola muito positiva
+
+Classificação média do trecho: 3.50 estrelas
+
+===== Trecho 7 =====
+Frase 1 (Positiva, estrelas=5): Os meus amigos de infância também foram incríveis
+Frase 2 (Positiva, estrelas=5): Nós sempre fomos muito chegados, alguns de nós vinham já desde o infantário, e quando nós chegámos lá, à escola primária, éramos muito unidos, não sei, era uma espécie de dinâmica de grupo muito boa, como uma turma inteira
+Frase 3 (Positiva, estrelas=5): Então eu lembro-me muito bem deles, e lembro-me, tenho muitas recordações com eles
+Frase 4 (Positiva, estrelas=5): Claro que ao longo dos anos alguns foram saindo das turmas, por o quer que seja, e no décimo ano dividiu-se tudo, mas o percurso escolar foi quase tudo feito com essas mesmas pessoas, e eu gostei muito
+Frase 5 (Positiva, estrelas=4): Agora, se mantém um contacto
+Frase 6 (Neutra, estrelas=3): Sim, alguns deles mantêm um contacto, a maior parte deles eu vejo-os por aí e cumprimento, e acho que ainda existe uma relação de amizade, mas o mais importante é mesmo um específico, que até hoje eu faço tudo com ele
+Frase 7 (Positiva, estrelas=5): Até posso dizer que até hoje ele é o meu melhor amigo
+
+Classificação média do trecho: 4.57 estrelas
+
+===== Trecho 8 =====
+Frase 1 (Positiva, estrelas=5): Como era uma escola muito pequena, nós tivemos
+Frase 2 (Positiva, estrelas=5): eu tive a mesma professora do primeiro ao quarto ano, e essa professora foi talvez uma das pessoas mais importantes, e que eu me lembro mais da minha infância, porque realmente ela tratava-nos quase como filhos
+Frase 3 (Positiva, estrelas=5): Nós éramos a única turma dela, estávamos constantemente com ela, e era incrível a atenção e o quanto ela se importava connosco
+Frase 4 (Neutra, estrelas=3): Apesar de ela já ter alguma idade na altura e, pronto, ainda ter alguns hábitos de reguada, no sentido em que gostava de uma disciplina mais severa, mesmo assim tratava-nos bem
+Frase 5 (Positiva, estrelas=4): Para não falar que para mim em específico, ela acabou por ser a pessoa que suscitou o meu amor pela leitura e pela escrita, principalmente a escrita, porque ela dizia que eu tinha bastante jeito e até houve certas ocasiões em que ela pegava nas minhas composições e mandava para o agrupamento de escolas da altura, que até ficava naqueles quadros engraçados de cortiça
+
+Classificação média do trecho: 4.40 estrelas
+
+===== Trecho 9 =====
+Frase 1 (Neutra, estrelas=3): Sim, sinto que foi bastante sortudo nisso da família
+Frase 2 (Neutra, estrelas=3): A família não é algo que nós escolhemos e eu, por acaso, tive uma lotaria bastante boa
+Frase 3 (Neutra, estrelas=3): Bastante sorte
+Frase 4 (Positiva, estrelas=5): Os meus pais sempre foram bastante compreensivos e gentis, sempre envolvidos na minha vida, sempre disponíveis para o que quer que fosse, sempre estiveram lá e nunca me trataram mal em nenhuma ocasião
+Frase 5 (Positiva, estrelas=5): O que eu posso dizer que estou bastante feliz por ter tido os pais que tenho
+Frase 6 (Positiva, estrelas=5): O meu irmão mais velho também é nessa onda
+Frase 7 (Positiva, estrelas=5): Nós sempre tivemos uma relação incrível
+Frase 8 (Positiva, estrelas=5): Ele sempre foi aquela figura de irmão mais velho que estava sempre lá e ele acabou também por ser o meu ídolo na infância, para ser honesto, e ensinou-me bastantes coisas
+Frase 9 (Positiva, estrelas=5): Se hoje eu gosto de tecnologia, de jogos, de história, era porque nós realmente passávamos muito tempo um com o outro
+Frase 10 (Positiva, estrelas=5): Lembro-me que nós adorávamos ver o canal Histórias juntos e de jogar jogos juntos, como eu disse anteriormente, aquele da Playstation 2
+Frase 11 (Positiva, estrelas=5): Realmente, na parte familiar, sinto que tive mesmo, mesmo muita sorte
+
+Classificação média do trecho: 4.45 estrelas
+
+===== Trecho 10 =====
+Frase 1 (Neutra, estrelas=3): Sim
+Frase 2 (Positiva, estrelas=5): Na minha infância, como nós vivíamos todos perto uns dos outros, no domingo à noite, depois de jantar, nós juntávamos todos, quase todos os domingos, na casa da minha avó, acendíamos a lareira e ficávamos só lá a conversar, os tios, os pais, os primos, as avós, claro que era a casa deles
+Frase 3 (Positiva, estrelas=5): E eu lembro-me com muito carinho essa altura, porque era um ambiente muito familiar, muito confortável, e que eu ficava sentado na carpete, em frente à lareira, a fazer desenhos, ou a brincar com os meus primos, ou a brincar com os meus brinquedos, mas o que eu me lembro mesmo é da sensação incrível de estar lá
+Frase 4 (Positiva, estrelas=5): E é engraçado, é engraçado pensar nisso, como tão naturalmente algo, como isso acontecia, como toda a gente estava lá todos os domingos para estar uns com os outros
+Frase 5 (Neutra, estrelas=3): Eu acho que é uma tradição especial, eu diria, que tínhamos naquela altura
+
+Classificação média do trecho: 4.20 estrelas
+
+===== Trecho 11 =====
+Frase 1 (Positiva, estrelas=5): Na minha infância, talvez o que não é surpresa para ninguém, mas é definitivamente o Natal
+Frase 2 (Positiva, estrelas=5): O facto de a mesa estar cheia de doces, a família toda reunida, aquela antecipação e ansiedade para chegar à meia-noite, para poder ir buscar os presentes todos
+Frase 3 (Positiva, estrelas=5): Como a minha família já nessa altura tinha boas relações uns com os outros, e sempre tiveram, de forma geral, o Natal era mesmo o momento mais especial do ano, eu diria
+Frase 4 (Neutra, estrelas=3): Sim, era definitivamente que a época do ano que eu mais gostava era o Natal
+
+Classificação média do trecho: 4.50 estrelas
+
+===== Trecho 12 =====
+Frase 1 (Positiva, estrelas=5): Tenho uma recordação que é bastante engraçada e que até hoje me lembro muito bem
+Frase 2 (Muito negativa, estrelas=1): Houve um dia em que eu estava a brincar com mais dois colegas lá nessa escola, nós estávamos a brincar num sítio que nós chamávamos "O Rego"
+Frase 3 (Positiva, estrelas=5): E aquilo o que é que era
+Frase 4 (Muito negativa, estrelas=2): "O Rego" era um pequeno corredor de terra que ficava entre uma espécie de muro
+Frase 5 (Muito negativa, estrelas=1): Como o campo tinha de ser construído e tinha que ser liso, ficou ali meio que um patamar diferente e criou um murozinho
+Frase 6 (Muito negativa, estrelas=1): E esse "o Rego" era um corredor de terra que ficava entre esse murozinho que ficou formado e a rede que depois dava para a floresta e dava para a saída da escola
+Frase 7 (Muito negativa, estrelas=1): Esse corredorzinho era engraçado porque tinha uma árvore que tinha as raízes expostas e nós usávamos essas raízes para subir esse tal muro para ir para o campo, quando nós estávamos lá a brincar
+Frase 8 (Muito negativa, estrelas=1): E uma ocasião, estava lá com esses dois colegas, estávamos a brincar, não sei o que é que estávamos a fazer, e um desses meus colegas que também era o mais pesado, o mais gordinho da escola, decidiu subir as raízes para subir o muro para fazer lá o que quer que seja
+Frase 9 (Muito negativa, estrelas=1): Só que enquanto ele estava a subir e já quase no topo, ele meteu o pé em falso, tropeçou, bateu com o queixo na parte de cima do muro e depois caiu de costas, inconsciente, se bem me recordo, outra vez no tal Rego
+Frase 10 (Muito negativa, estrelas=1): Imediatamente que eu e esse outro colega começámos logo a estressar, ele de imediato subiu o muro e foi correr à procura de qualquer auxiliar que conseguisse encontrar para nos vir ajudar
+Frase 11 (Muito negativa, estrelas=1): Eu olhei para o meu amigo, ele estava a sangrar, estava inconsciente, o que é que eu pensei como uma criança
+Frase 12 (Muito negativa, estrelas=1): Ele de certeza que está morto
+Frase 13 (Muito negativa, estrelas=2): Então, apesar dele ser, apesar dele ser para aí o dobro do peso que eu era, porque eu era bastante magrelo, ainda sou, mas na altura ainda era mais, provavelmente, sei lá, pela adrenalina, o que fosse, eu consegui arranjar força suficiente de pegar nele às costas, subir as raízes e levá-lo lá para cima
+Frase 14 (Muito negativa, estrelas=2): Entretanto, pronto, chegou lá uma auxiliar, um colega chamou a auxiliar e, sei lá, taparam o sangue, logo foi, chamaram a ambulância e levaram-no ao hospital
+Frase 15 (Muito negativa, estrelas=2): Ele, por acaso, teve sorte, não aconteceu grande coisa, ele só teve que levar uns pontos no queixo, o que, pronto, naquela altura era bastante, e foi uma criança principalmente
+Frase 16 (Neutra, estrelas=3): Mas o que mais me lembro dessa história é que, no dia seguinte, a mãe desse colega veio pessoalmente a casa a agradecer-me e até me queria dar dinheiro, que eu rejeitei na altura
+Frase 17 (Muito negativa, estrelas=1): Mas sim, foi engraçado
+Frase 18 (Positiva, estrelas=4): Até hoje não faço ideia como é que eu consegui levantar, mas consegui
+
+Classificação média do trecho: 1.94 estrelas
+
+===== Trecho 13 =====
+Frase 1 (Muito negativa, estrelas=1): Houve um verão, não sei dizer que ano específico, mas o computador, que era o computador dele, só tínhamos o computador que era o dele, estava na sala
+Frase 2 (Positiva, estrelas=5): Nós estávamos nas férias de verão, ambos estávamos de férias, nossos pais iam dormir bastante cedo porque tinham de ir trabalhar, e ficámos os dois na sala
+Frase 3 (Neutra, estrelas=3): Ele ficava a jogar e eu gostava muito de me deitar na parte de encostar a cabeça do sofá e ficar a vê-lo a jogar
+Frase 4 (Neutra, estrelas=3): Eu punha-me aí porque pronto, nessa posição dava tanto para vê-lo a jogar e ver os desenhos animados na televisão ao mesmo tempo
+Frase 5 (Neutra, estrelas=3): Mas eu lembro-me bastante disso porque, não sei, alguma cena sobre ter os meus desenhos animados favoritos, aquela coisa de, no verão é quente, mas aquelas noites estavam mais frescas, vê-lo a jogar, não sei, às vezes até adormecia no sofá e tudo
+Frase 6 (Positiva, estrelas=5): É um ambiente que eu me recordo com muito carinho e, epá, gostava de repetir
+Frase 7 (Muito negativa, estrelas=2): Se pudesse repetir voltar no tempo por um dia e reviver o momento, provavelmente seria qualquer uma dessas noites, porque eu sinto mesmo que gostava
+Frase 8 (Positiva, estrelas=5): Gostava de todo o ambiente e de toda a sensação e de, sei lá, estar com o meu irmão, ter a televisão para mim, era muito interessante
+Frase 9 (Muito negativa, estrelas=1): Eu acho que ia para uma dessas noites
+
+Classificação média do trecho: 3.11 estrelas
+
+===== Trecho 14 =====
+Frase 1 (Positiva, estrelas=5): Obrigada
+
+Classificação média do trecho: 5.00 estrelas
+
+===== Trecho 15 =====
+Frase 1 (Positiva, estrelas=4): Boa tarde
+
+Classificação média do trecho: 4.00 estrelas

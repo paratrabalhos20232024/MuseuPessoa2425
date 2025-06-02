@@ -1,0 +1,35 @@
+      1 Beatriz Oliveira	PROPN	PER	ROOT	500000
+      1 Carina	PROPN	PER	flat:name	30343
+      1 Carlos de Castro	PROPN	PER	nsubj	500007
+      1 Cleo	PROPN	PER	ccomp	43841
+      1 Diogo	PROPN	PER	obj	7540
+      1 Egito	PROPN	LOC	nmod	5104
+      1 Guimarães	PROPN	LOC	obj	4549
+      1 Hospital de Famalicão	PROPN	LOC	obl	500002
+      1 Monster High	PROPN	ORG	nsubj	500004
+      1 Mãe Natureza	PROPN	PER	ccomp	500003
+      1 Mãe Natureza	PROPN	PER	obl	500003
+      1 Mãe Natureza	PROPN	PER	obl:agent	500003
+      1 Natal	PROPN	MISC	ROOT	1408
+      1 Natal	PROPN	MISC	appos	1408
+      1 Natal	PROPN	MISC	conj	1408
+      1 Natal	PROPN	MISC	nsubj	1408
+      1 Nesquik	PROPN	MISC	obj	370187
+      1 Oh Carina	PROPN	MISC	obj	500010
+      1 Olá Carina	PROPN	MISC	ROOT	500001
+      1 Portugal	PROPN	LOC	obl	463
+      1 Pus	PROPN	Pus	advcl	109474
+      1 Póvoa de Varzim	PROPN	LOC	obl	500006
+      1 Póvoa do Varzim	PROPN	LOC	obl	500005
+      1 Ronfe	PROPN	LOC	ccomp	318772
+      1 Ronfe	PROPN	LOC	obl	318772
+      1 Terra	PROPN	LOC	obl	1218
+      1 Winx	PROPN	ORG	obj	93932
+      1 fez-me	PROPN	fez-me	conj	34419
+      1 praia	PROPN	praia	nmod	1192
+      2 Carina	PROPN	PER	ROOT	30343
+      2 Joane	PROPN	LOC	nmod	99417
+      2 Ronfe	PROPN	LOC	conj	318772
+      2 em Portugal	PROPN	LOC	obl	500009
+      3 Carina	PROPN	PER	nsubj	30343
+      3 Mãe Natureza	PROPN	PER	nmod	500003

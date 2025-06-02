@@ -1,0 +1,2 @@
+O arquivo 'Entrevista_B1.txt' tem 176 linhas e 3241 palavras.
+O arquivo 'Entrevista_B2.txt' tem 156 linhas e 2676 palavras.

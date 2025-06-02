@@ -1,0 +1,24 @@
+      4 Natal MISC
+      4 Mãe PROPN
+      3 Ronfe LOC
+      3 Carina PER
+      2 Póvoa Varzim LOC
+      1 praia LOC
+      1 fez-me VERB
+      1 em PROPN
+      1 Winx ORG
+      1 Terra LOC
+      1 Pus VERB
+      1 Portugal LOC
+      1 Olá PROPN
+      1 Oh PROPN
+      1 Nesquik MISC
+      1 Monster PROPN
+      1 Joane LOC
+      1 Hospital Famalicão LOC
+      1 Guimarães LOC
+      1 Egito LOC
+      1 Diogo PER
+      1 Cleo PER
+      1 Carlos PROPN
+      1 Beatriz PROPN

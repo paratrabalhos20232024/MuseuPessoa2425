@@ -1,0 +1,342 @@
+10	altura
+10	escola
+7	um bocado
+4	Pronto
+4	sua inf�ncia
+4	a escola
+4	futebol
+4	casa
+3	por acaso
+3	p�
+3	mim
+3	fam�lia
+3	inf�ncia
+3	deles
+3	minha inf�ncia
+3	sua fam�lia
+3	ano
+3	um dia
+3	as ra�zes
+2	ver�o
+2	dela
+2	Playstation
+2	o meu irm�o
+2	o seu irm�o
+2	Playstation 2
+2	Yu-Gi-Oh
+2	jogos
+2	som
+2	golo
+2	minha av�
+2	alguns deles
+2	um contacto
+2	nisso
+2	os pais
+2	muito carinho
+2	algum momento
+2	o Natal
+2	O Rego
+2	terra
+2	muro
+2	o campo
+2	o muro
+2	noites
+1	o meu nome
+1	a sua disponibilidade
+1	esta entrevista
+1	o seu nome
+1	a sua idade
+1	sou o Jo�o
+1	22 anos
+1	aldeia
+1	Famalic�o
+1	uns tr�s caf�s
+1	natureza
+1	um s�tio
+1	a minha inf�ncia
+1	a sua casa
+1	o ambiente
+1	A minha casa
+1	zona
+1	era uma casa mais ou menos grande
+1	com algum terreno
+1	invernos
+1	era at� o facto
+1	minha fam�lia
+1	outro lado
+1	estrada
+1	um ambiente muito bom para eu crescer
+1	o grande terreno
+1	meus av�s
+1	animais
+1	seus av�s
+1	primos
+1	a minha m�e
+1	o pequeno almo�o
+1	leite
+1	cereais
+1	toda aquela rotina
+1	os dentes
+1	a cara
+1	a 
+ minha tia
+1	o meu primo
+1	as aulas
+1	os intervalos
+1	coisas
+1	a minha tia
+1	ao meu primo
+1	quintal
+1	os meus pais
+1	trabalho
+1	horas extras
+1	os trabalhos
+1	dia seguinte
+1	alguma brincadeira
+1	atividade
+1	intervalos
+1	duas turmas
+1	nosso ano
+1	uma rivalidade
+1	a outra turma
+1	outras coisas
+1	o jogo
+1	WWE
+1	porrada
+1	uma cole��o
+1	cole��o
+1	cartas
+1	bola
+1	Sim 
+1   Pronto
+1	algum cheiro
+1	sabor
+1	Principalmente o cheiro
+1	manh�
+1	cheiro
+1	estava sempre com meio que um nevoeiro
+1	um frio
+1	um cheiro particular
+1	Sabores
+1	a n�o ser aquelas sopas
+1	almo�o
+1	daquilo
+1	um jogo
+1	o nariz
+1	Sons
+1	vozes estridentes
+1	mi�dos
+1	um golo
+1	a casa
+1	os mi�dos
+1	dia
+1	�poca
+1	ent�o agora sendo um bocado
+1	os seus amigos
+1	Como � que � a sua experi�ncia
+1	ou como foi a sua experi�ncia
+1	a verdade
+1	A minha experi�ncia
+1	mesma aldeia
+1	as turmas
+1	as pessoas
+1	as coisas
+1	uma crian�a
+1	escola muito positiva
+1	seus amigos
+1	Como � que eram os seus amigos
+1	contacto
+1	Os meus amigos
+1	j� desde o infant�rio
+1	� escola prim�ria
+1	�ramos muito unidos
+1	era uma esp�cie
+1	din�mica
+1	como uma turma
+1	muitas recorda��es
+1	que ao longo
+1	anos
+1	turmas
+1	d�cimo ano
+1	o percurso escolar
+1	essas mesmas pessoas
+1	amizade
+1	mas o mais importante � mesmo um espec�fico
+1	essa hist�ria
+1	amigos
+1	o tema
+1	professores
+1	algum professor
+1	professora
+1	a sua vida
+1	maneira positiva ou negativa
+1	Como era uma escola muito pequena
+1	a mesma professora
+1	quarto ano
+1	essa professora
+1	pessoas mais importantes
+1	quase como filhos
+1	a �nica turma
+1	est�vamos constantemente com ela
+1	a aten��o
+1	connosco
+1	alguma idade
+1	alguns h�bitos
+1	sentido
+1	uma disciplina mais 
+ severa
+1	espec�fico
+1	o meu amor
+1	leitura
+1	pela escrita
+1	bastante jeito
+1	certas ocasi�es
+1	minhas 
+ composi��es
+1	o agrupamento
+1	escolas
+1	quadros
+1	corti�a
+1	tema
+1	das tradi��es
+1	os seus pais
+1	irm�o
+1	A fam�lia
+1	Bastante sorte
+1	Os meus pais
+1	minha vida
+1	nenhuma ocasi�o
+1	O meu irm�o mais velho
+1	uma rela��o incr�vel
+1	tamb�m por ser o meu �dolo
+1	bastantes 
+ coisas
+1	tecnologia
+1	de jogos
+1	de hist�ria
+1	o outro
+1	o canal
+1	Hist�rias juntos
+1	jogos juntos
+1	mesmo muita sorte
+1	alguns costumes
+1	
+ Playstation
+1	alguma tradi��o
+1	costume
+1	seio
+1	domingo
+1	noite
+1	
+ quase todos os domingos
+1	a lareira
+1	os tios
+1	os primos
+1	as av�s
+1	essa altura
+1	carpete
+1	frente
+1	lareira
+1	desenhos
+1	os meus primos
+1	os meus brinquedos
+1	t�o naturalmente algo
+1	toda a gente
+1	
+ altura
+1	a tradi��o
+1	todos os domingos
+1	ningu�m
+1	mas � definitivamente o Natal
+1	O facto de a mesa estar cheia de doces
+1	
+ a fam�lia
+1	toda reunida
+1	aquela antecipa��o
+1	ansiedade
+1	meia-noite
+1	os presentes todos
+1	a minha fam�lia
+1	j� 
+ nessa altura
+1	boas rela��es
+1	que a �poca
+1	si
+1	alguma lembran�a marcante
+1	sua 
+ inf�ncia
+1	uma recorda��o
+1	mais 
+ dois colegas
+1	l� nessa escola
+1	s�tio
+1	uma esp�cie
+1	um murozinho
+1	esse o Rego
+1	esse murozinho
+1	a rede
+1	a sa�da
+1	Esse corredorzinho
+1	uma �rvore
+1	essas ra�zes
+1	esse tal muro
+1	E uma ocasi�o
+1	meus colegas
+1	o p�
+1	o queixo
+1	costas
+1	tal Rego
+1	esse outro colega
+1	imediato
+1	procura
+1	o meu amigo
+1	peso
+1	adrenalina
+1	for�a
+1	nele
+1	um colega
+1	o sangue
+1	a ambul�ncia
+1	hospital
+1	sorte
+1	queixo
+1	no dia seguinte
+1	a m�e
+1	colega
+1	pessoalmente a casa
+1	dinheiro
+1	ideia
+1	um bocado forte
+1	uma lembran�a marcante
+1	nem que seja s� esta lembran�a
+1	um ver�o
+1	que ano espec�fico
+1	mas o computador
+1	dele
+1	o computador
+1	nossos pais
+1	sala
+1	a cabe�a
+1	
+ sof�
+1	os desenhos animados na televis�o 
+ ao mesmo tempo
+1	alguma cena
+1	os meus desenhos
+1	aquela coisa de 
+ no ver�o � quente mas aquelas noites estavam mais frescas
+1	sof�
+1	� um ambiente
+1	todo o ambiente
+1	de toda a sensa��o
+1	estar com 
+ o meu irm�o
+1	a televis�o
+1	Sr.
+1	Jo�o
+1	mais perguntas
+1	o e-mail
+1	sua disponibilidade
+1	entrevista
+1	A sua participa��o
+1	o resto
