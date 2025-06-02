@@ -1,4 +1,4 @@
-# Entrevista a João Pedro
+# Entrevista a João Pedro (B2)
 
 ## Ficheiros
 
@@ -12,7 +12,7 @@
 
 **Foto_JoãoPedro_Primo.png** , **Foto_JoãoPedro_Primo.png** , **JoãoPedro_Entrevistadora.png** - Fotografias associadas não só às memórias de infância de João Pedro, mas também uma fotografia tirada com a entrevistadora.
 
-# Entrevista a Carina Faria
+# Entrevista a Carina Faria (B1)
 
 ## Ficheiros
 
