@@ -1,0 +1,1060 @@
+
+Hoje	ADV	hoje	advmod	685
+temos	VERB	ter	ROOT	375
+connosco	NOUN	connosco	obj	11527
+Catarina Pereira	PROPN	PER	nsubj	500000
+,	PUNCT	,	punct	0
+que	PRON	que	nsubj	7
+nos	PRON	nós	iobj	53
+vai	AUX	ir	aux	101
+contar	VERB	contar	advcl	1008
+um	DET	um	det	13
+pouco	ADV	pouco	obj	182
+sobre	ADP	sobre	case	55
+a	DET	o	det	5
+sua	DET	seu	det	37
+infância	NOUN	infância	obl	2343
+,	PUNCT	,	punct	0
+as	DET	o	det	23
+suas	DET	seu	det	97
+memórias	NOUN	memória	obj	5424
+mais	ADV	mais	advmod	25
+queridas	ADJ	querido	amod	15731
+e	CCONJ	e	cc	4
+a	DET	o	det	5
+forma	NOUN	forma	conj	94
+como	ADV	como	advmod	29
+cresceu	VERB	crescer	acl	3774
+.	PUNCT	.	punct	3
+
+Onde	ADV	onde	advmod	3308
+nasceste	ADJ	nascestir	ROOT	138637
+e	CCONJ	e	cc	4
+cresceste	VERB	cresceste	conj	308748
+?	PUNCT	?	punct	49
+
+Nasci	PROPN	Nasci	ROOT	34140
+em	ADP	em	case	10
+Braga	PROPN	LOC	obl	3847
+,	PUNCT	,	punct	0
+mas	CCONJ	mas	cc	44
+sempre	ADV	sempre	advmod	100
+vivi	VERB	vivi	conj	14702
+numa	ADP	em um	case	300
+aldeia	NOUN	aldeia	obl	4562
+.	PUNCT	.	punct	3
+
+A	DET	o	det	31
+nossa	DET	nosso	det	190
+casa	NOUN	casa	nsubj	142
+era	AUX	ser	cop	95
+bastante	ADV	bastante	advmod	393
+tradicional	ADJ	tradicional	ROOT	1411
+,	PUNCT	,	punct	0
+com	ADP	com	case	12
+acesso	NOUN	acesso	obl	383
+a	ADP	a	case	5
+um	DET	um	det	13
+jardim	NOUN	jardim	nmod	2563
+.	PUNCT	.	punct	3
+
+Gosto	VERB	Gostar	advcl	5220
+imenso	ADJ	imenso	advmod	5046
+de	ADP	de	case	2
+onde	PRON	onde	obl	92
+cresci	VERB	crescer	advcl	26058
+–	PUNCT	–	punct	61
+é	AUX	ser	cop	14
+um	DET	um	det	13
+lugar	NOUN	lugar	ROOT	221
+cheio	ADJ	cheio	amod	2035
+de	ADP	de	case	2
+memórias	NOUN	memória	nmod	5424
+afetivas	ADJ	afetivo	amod	30768
+que	PRON	que	nsubj	7
+me	PRON	eu	obj	86
+acompanham	VERB	acompanhar	acl:relcl	8504
+até	ADP	até	case	59
+hoje	ADV	hoje	advmod	163
+.	PUNCT	.	punct	3
+
+Ainda	ADV	ainda	advmod	519
+vivo	VERB	viver	ROOT	1152
+lá	ADV	lá	advmod	258
+,	PUNCT	,	punct	0
+e	CCONJ	e	cc	4
+continua	VERB	continuar	conj	1154
+a	SCONJ	a	mark	5
+ser	AUX	ser	cop	36
+um	DET	um	det	13
+espaço	NOUN	espaço	xcomp	313
+muito	ADV	muito	advmod	50
+especial	ADJ	especial	amod	436
+para	ADP	para	case	11
+mim	PRON	eu	nmod	380
+.	PUNCT	.	punct	3
+
+Como	ADV	como	advmod	198
+era	VERB	ser	ROOT	95
+a	DET	o	det	5
+tua	DET	tuo	det	1433
+casa	NOUN	casa	nsubj	142
+e	CCONJ	e	cc	4
+o	DET	o	det	6
+ambiente	NOUN	ambiente	conj	422
+onde	PRON	onde	obl	92
+viveste	VERB	viveste	acl:relcl	181263
+na	ADP	em o	case	20
+infância	NOUN	infância	obl	2343
+?	PUNCT	?	punct	49
+
+O	DET	o	det	28
+ambiente	NOUN	ambiente	nsubj	422
+era	AUX	ser	cop	95
+bastante	ADV	bastante	advmod	393
+comum	ADJ	comum	ROOT	643
+e	CCONJ	e	cc	4
+tradicional	ADJ	tradicional	conj	1411
+.	PUNCT	.	punct	3
+
+Embora	SCONJ	embora	mark	1610
+não	ADV	não	advmod	21
+tenha	VERB	ter	advcl	386
+muitas	DET	muito	det	245
+recordações	NOUN	recordação	obj	15545
+da	ADP	de o	case	9
+infância	NOUN	infância	nmod	2343
+,	PUNCT	,	punct	0
+lembro-me	VERB	lembro eu	ROOT	26068
+bem	ADV	bem	advmod	69
+de	SCONJ	de	mark	2
+brincar	VERB	brincar	xcomp	4420
+ao	ADP	a o	case	32
+ar	NOUN	ar	obl	626
+livre	ADJ	livre	amod	769
+com	ADP	com	case	12
+o	DET	o	det	6
+meu	DET	meu	det	137
+cão	NOUN	cão	nmod	4141
+,	PUNCT	,	punct	0
+enquanto	ADV	enquanto	advmod	289
+os	DET	o	det	18
+meus	DET	meu	det	574
+pais	NOUN	pai	nsubj	726
+tratavam	VERB	tratar	advcl	36052
+do	ADP	de o	case	8
+jardim	NOUN	jardim	obj	2563
+.	PUNCT	.	punct	3
+
+Sempre	ADV	sempre	advmod	1716
+tive	VERB	ter	ROOT	1254
+uma	DET	um	det	15
+boa	ADJ	bom	amod	297
+relação	NOUN	relação	obj	249
+com	ADP	com	case	12
+eles	PRON	ele	nmod	152
+e	CCONJ	e	cc	4
+divertia-me	VERB	divertir ea	conj	428248
+imenso	ADV	imenso	advmod	5046
+a	SCONJ	a	mark	5
+brincar	VERB	brincar	xcomp	4420
+com	ADP	com	case	12
+os	DET	o	det	18
+meus	DET	meu	det	574
+vizinhos	NOUN	vizinho	obl	3275
+.	PUNCT	.	punct	3
+
+Como	ADV	como	advmod	198
+era	AUX	ser	cop	95
+um	DET	um	det	13
+dia	NOUN	dia	obl	67
+típico	ADJ	típico	amod	6446
+na	ADP	em o	case	20
+tua	DET	tuo	det	1433
+infância	NOUN	infância	nmod	2343
+?	PUNCT	?	punct	49
+Acordava	VERB	Acordar	ROOT	148974
+muito	ADV	muito	advmod	50
+cedo	ADV	cedo	advmod	1976
+para	SCONJ	para	mark	11
+ir	VERB	ir	advcl	439
+para	ADP	para	case	11
+a	DET	o	det	5
+escola	NOUN	escola	obl	549
+,	PUNCT	,	punct	0
+muitas	ADP	muitas	case	245
+vezes	NOUN	vez	nmod	179
+antes	ADV	antes	advmod	181
+das	ADP	de o	case	34
+aulas	NOUN	aula	obl	1293
+começarem	VERB	começar	advcl	18153
+,	PUNCT	,	punct	0
+porque	SCONJ	porque	mark	128
+os	DET	o	det	18
+meus	DET	meu	det	574
+pais	NOUN	pai	nsubj	726
+trabalhavam	VERB	trabalhar	advcl	17060
+e	CCONJ	e	cc	4
+deixavam-me	VERB	deixavam eu	conj	395135
+lá	ADV	lá	advmod	258
+mais	ADV	mais	advmod	25
+cedo	ADV	cedo	advmod	1976
+.	PUNCT	.	punct	3
+
+Tenho	VERB	ter	ROOT	1581
+uma	DET	um	det	15
+lembrança	NOUN	lembrança	obj	8047
+muito	ADV	muito	advmod	50
+nítida	ADJ	nítido	amod	20386
+da	ADP	de o	case	9
+minha	DET	meu	det	132
+mãe	NOUN	mãe	obl	484
+a	PRON	ela	mark	5
+aplicar-me	VERB	aplicar-me	advcl	18446744073709551615
+creme	NOUN	creme	obj	3399
+todas	DET	todo	det	162
+as	DET	o	det	23
+manhãs	NOUN	manhã	nmod	16475
+–	PUNCT	–	punct	61
+era	AUX	ser	cop	95
+um	DET	um	det	13
+creme	NOUN	creme	parataxis	3399
+da	ADP	de o	case	9
+Nivea	PROPN	ORG	nmod	54965
+,	PUNCT	,	punct	0
+o	PRON	o	appos	6
+da	ADP	de o	case	9
+caixa	NOUN	caixa	nmod	1298
+azul	ADJ	azul	amod	1748
+.	PUNCT	.	punct	3
+
+Adorava	VERB	Adorava	ROOT	54786
+o	DET	o	det	6
+cheiro	NOUN	cheiro	obj	3997
+e	CCONJ	e	cc	4
+,	PUNCT	,	punct	0
+ainda	ADV	ainda	advmod	68
+hoje	ADV	hoje	advmod	163
+,	PUNCT	,	punct	0
+sempre	ADV	sempre	mark	100
+que	SCONJ	que	fixed	7
+o	PRON	ele	obj	6
+sinto	VERB	sinto	conj	2647
+,	PUNCT	,	punct	0
+sou	AUX	ser	cop	525
+transportada	NOUN	transportar	ccomp	27295
+de	ADP	de	case	2
+volta	NOUN	volta	obl	373
+para	ADP	para	case	11
+esses	DET	esse	det	457
+momentos	NOUN	momento	obl	819
+.	PUNCT	.	punct	3
+
+Depois	ADV	depois	advmod	406
+tomava	VERB	tomar	ROOT	17848
+o	DET	o	det	6
+pequeno-almoço	NOUN	pequeno-almoço	obj	14494
+a	SCONJ	a	mark	5
+olhar	VERB	olhar	xcomp	1037
+para	ADP	para	case	11
+o	DET	o	det	6
+jardim	NOUN	jardim	obl	2563
+com	ADP	com	case	12
+o	DET	o	det	6
+meu	DET	meu	det	137
+pai	NOUN	pai	nmod	552
+,	PUNCT	,	punct	0
+observando	VERB	observar	advcl	7735
+os	DET	o	det	18
+pássaros	NOUN	pássaro	obj	8717
+que	PRON	que	nsubj	7
+pousavam	VERB	pousar	acl:relcl	180197
+por	ADP	por	case	22
+ali	ADV	ali	advmod	1000
+.	PUNCT	.	punct	3
+
+Na	ADP	em o	case	145
+escola	NOUN	escola	obl	549
+,	PUNCT	,	punct	0
+adorava	VERB	adorar	ROOT	16405
+os	DET	o	det	18
+intervalos	NOUN	intervalo	obj	9658
+longos	ADJ	longo	amod	5026
+,	PUNCT	,	punct	0
+e	CCONJ	e	cc	4
+ao	ADP	a o	case	32
+final	NOUN	final	nsubj	202
+do	ADP	de o	case	8
+dia	NOUN	dia	nmod	67
+voltava	VERB	voltar	conj	16203
+para	ADP	para	case	11
+casa	NOUN	casa	obl	142
+com	ADP	com	case	12
+um	DET	um	det	13
+vizinho	NOUN	vizinho	obl	6186
+.	PUNCT	.	punct	3
+
+Víamos	VERB	Víamos	nsubj	276132
+televisão	NOUN	televisão	obj	1660
+,	PUNCT	,	punct	0
+lanchávamos	ADJ	lanchávamo	conj	18446744073709551615
+,	PUNCT	,	punct	0
+fazíamos	VERB	fazíamos	ROOT	33013
+os	DET	o	det	18
+trabalhos	NOUN	trabalho	obj	847
+de	ADP	de	case	2
+casa	NOUN	casa	nmod	142
+e	CCONJ	e	cc	4
+,	PUNCT	,	punct	0
+ao	ADP	a o	case	32
+final	NOUN	final	obl	202
+da	ADP	de o	case	9
+noite	NOUN	noite	nmod	358
+,	PUNCT	,	punct	0
+havia	VERB	haver	conj	395
+sempre	ADV	sempre	advmod	100
+um	DET	um	det	13
+bocadinho	NOUN	bocadinho	obj	13872
+de	ADP	de	case	2
+desenhos	NOUN	desenho	nmod	3394
+animados	VERB	animar	acl	10832
+antes	ADV	antes	mark	181
+de	ADP	de	fixed	2
+dormir	VERB	dormir	advcl	2510
+.	PUNCT	.	punct	3
+
+Tinhas	NOUN	Tinhas	ROOT	164527
+alguma	DET	algum	det	410
+brincadeira	NOUN	brincadeira	nsubj	4752
+preferida	ADJ	preferer	acl	10210
+?	PUNCT	?	punct	49
+
+Sim	ADV	sim	ROOT	1545
+!	PUNCT	!	punct	38
+
+A	DET	o	det	31
+minha	DET	meu	det	132
+favorita	NOUN	favorita	nsubj	9939
+era	AUX	ser	cop	95
+brincar	VERB	brincar	ROOT	4420
+aos	ADP	a o	case	81
+restaurantes	NOUN	restaurante	obj	2244
+com	ADP	com	case	12
+os	DET	o	det	18
+meus	DET	meu	det	574
+amigos	NOUN	amigo	nmod	481
+e	CCONJ	e	cc	4
+com	ADP	com	case	12
+o	DET	o	det	6
+meu	DET	meu	det	137
+vizinho	NOUN	vizinho	conj	6186
+.	PUNCT	.	punct	3
+
+Também	ADV	também	advmod	629
+gostava	VERB	gostar	ROOT	5149
+muito	ADV	muito	advmod	50
+de	ADP	de	case	2
+uma	DET	um	det	15
+brincadeira	NOUN	brincadeira	obj	4752
+que	PRON	que	nsubj	7
+inventámos	VERB	inventar	acl:relcl	252982
+,	PUNCT	,	punct	0
+a	PRON	a	obj	5
+dos	ADP	de o	case	30
+"	PUNCT	"	punct	26
+cavalos	NOUN	cavalo	nmod	7101
+"	PUNCT	"	punct	26
+,	PUNCT	,	punct	0
+em	ADP	em	case	10
+que	PRON	que	obl	7
+os	DET	o	det	18
+rapazes	NOUN	rapaz	nsubj	9971
+faziam	VERB	fazer	advcl	5730
+de	ADP	de	case	2
+cavalos	NOUN	cavalo	obj	7101
+e	CCONJ	e	cc	4
+nós	PRON	nós	conj	237
+,	PUNCT	,	punct	0
+as	DET	o	det	23
+meninas	NOUN	menina	dep	2380
+,	PUNCT	,	punct	0
+simulávamos	VERB	simulávamos	conj	18446744073709551615
+comprar	VERB	comprar	xcomp	585
+e	CCONJ	e	cc	4
+correr	VERB	correr	conj	2490
+com	ADP	com	case	12
+eles	PRON	eles	obl	152
+.	PUNCT	.	punct	3
+
+Escolhíamos	PROPN	LOC	ROOT	500001
+os	DET	o	det	18
+"	PUNCT	"	punct	26
+melhores	ADJ	bom	amod	364
+cavalos	NOUN	cavalo	nsubj	7101
+"	PUNCT	"	punct	26
+,	PUNCT	,	punct	0
+avaliávamos	VERB	avaliávamos	conj	18446744073709551615
+as	DET	o	det	23
+qualidades	NOUN	qualidade	obj	5210
+e	CCONJ	e	cc	4
+fazíamos	VERB	fazíamos	conj	33013
+corridas	NOUN	corrida	obj	6473
+.	PUNCT	.	punct	3
+
+Era	AUX	ser	cop	1387
+divertidíssimo	ADJ	divertidíssimo	ROOT	86807
+!	PUNCT	!	punct	38
+Há	VERB	haver	advcl	501
+algum	DET	algum	det	379
+cheiro	NOUN	cheiro	obj	3997
+,	PUNCT	,	punct	0
+som	NOUN	som	conj	1463
+ou	CCONJ	ou	cc	33
+sabor	NOUN	sabor	conj	2731
+que	SCONJ	que	mark	7
+te	PRON	te	det	398
+transporte	NOUN	transporte	advcl	1027
+imediatamente	ADV	imediatamente	advmod	2155
+para	ADP	para	case	11
+a	DET	o	det	5
+infância	NOUN	infância	nmod	2343
+?	PUNCT	?	punct	49
+
+Sem	ADP	sem	case	994
+dúvida	NOUN	dúvida	ROOT	1103
+,	PUNCT	,	punct	0
+o	DET	o	det	6
+cheiro	NOUN	cheiro	conj	3997
+do	ADP	de o	case	8
+creme	NOUN	creme	nmod	3399
+Nivea	PROPN	ORG	appos	54965
+.	PUNCT	.	punct	3
+
+Sempre	SCONJ	sempre	advmod	1716
+que	SCONJ	que	fixed	7
+o	DET	o	det	6
+cheiro	NOUN	cheiro	nsubj	3997
+,	PUNCT	,	punct	0
+lembro-me	VERB	lembro eu	ROOT	26068
+imediatamente	ADV	imediatamente	advmod	2155
+da	ADP	de o	case	9
+minha	DET	meu	det	132
+mãe	NOUN	mãe	obj	484
+a	SCONJ	a	mark	5
+aplicá-lo	VERB	aplicar ele	acl	46720
+na	ADP	em o	case	20
+minha	DET	meu	det	132
+cara	NOUN	cara	obl	825
+,	PUNCT	,	punct	0
+na	ADP	em o	case	20
+casa	NOUN	casa	obl	142
+de	ADP	de	case	2
+banho	NOUN	banho	nmod	1789
+,	PUNCT	,	punct	0
+todas	DET	todo	det	162
+as	DET	o	det	23
+manhãs	NOUN	manhã	dep	16475
+.	PUNCT	.	punct	3
+
+É	AUX	ser	cop	88
+uma	DET	um	det	15
+memória	NOUN	memória	ROOT	1367
+muito	ADV	muito	advmod	50
+viva	ADJ	vivo	amod	4273
+e	CCONJ	e	cc	4
+cheia	ADJ	cheio	conj	2363
+de	ADP	de	case	2
+carinho	NOUN	carinho	obl	2385
+.	PUNCT	.	punct	3
+
+Gostavas	NOUN	PER	ROOT	248965
+de	SCONJ	de	mark	2
+estudar	VERB	estudar	acl	2018
+?	PUNCT	?	punct	49
+
+Como	SCONJ	como	advmod	198
+era	VERB	ser	cop	95
+a	DET	o	det	5
+tua	DET	tuo	det	1433
+experiência	NOUN	experiência	ROOT	404
+escolar	ADJ	escolar	amod	1925
+?	PUNCT	?	punct	49
+
+Adorava	VERB	Adorava	ROOT	54786
+estar	AUX	estar	cop	238
+na	ADP	em o	case	20
+escola	NOUN	escola	xcomp	549
+,	PUNCT	,	punct	0
+mas	CCONJ	mas	cc	44
+estudar	VERB	estudar	csubj	2018
+por	ADP	por	case	22
+iniciativa	NOUN	iniciativa	obl	1365
+própria	ADJ	próprio	amod	390
+nunca	ADV	nunca	advmod	271
+foi	AUX	ser	cop	35
+o	DET	o	det	6
+meu	DET	meu	det	137
+forte	NOUN	forte	xcomp	619
+.	PUNCT	.	punct	3
+
+Os	DET	o	det	77
+meus	DET	meu	det	574
+pais	NOUN	pai	nsubj	726
+é	AUX	ser	discourse	14
+que	SCONJ	que	mark	7
+me	PRON	eu	obj	86
+incutiram	VERB	incutir	ROOT	263641
+uma	DET	um	det	15
+rotina	NOUN	rotina	obj	2329
+de	ADP	de	case	2
+estudo	NOUN	estudo	nmod	521
+.	PUNCT	.	punct	3
+
+Sem	ADP	sem	case	994
+essa	DET	esse	det	141
+estrutura	NOUN	estrutura	obl	814
+,	PUNCT	,	punct	0
+acredito	VERB	acreditar	ROOT	2368
+que	SCONJ	que	mark	7
+teria	AUX	ter	aux	823
+estudado	VERB	estudar	ccomp	10519
+bem	ADV	bem	advmod	69
+menos	ADV	menos	advmod	165
+.	PUNCT	.	punct	3
+
+Ainda	ADV	ainda	advmod	519
+hoje	ADV	hoje	advmod	163
+,	PUNCT	,	punct	0
+estudar	VERB	estudar	advcl	2018
+não	ADV	não	advmod	21
+é	AUX	ser	cop	14
+algo	PRON	algo	obj	284
+que	PRON	que	nsubj	7
+faça	VERB	faça	acl:relcl	1271
+por	ADP	por	case	22
+prazer	NOUN	prazer	obl	1552
+–	PUNCT	–	punct	61
+faço	VERB	fazer	ROOT	1993
+porque	SCONJ	porque	mark	128
+tem	VERB	ter	advcl	52
+de	SCONJ	de	mark	2
+ser	VERB	ser	xcomp	36
+.	PUNCT	.	punct	3
+
+Como	ADV	como	advmod	198
+eram	AUX	ser	ROOT	518
+os	DET	o	det	18
+teus	DET	teu	det	5810
+amigos	NOUN	amigo	nsubj	481
+de	ADP	de	case	2
+infância	NOUN	infância	nmod	2343
+?	PUNCT	?	punct	49
+
+Manténs	PROPN	PER	nsubj	500002
+contacto	NOUN	contacto	ROOT	5248
+com	ADP	com	case	12
+algum	PRON	algum	nmod	379
+?	PUNCT	?	punct	49
+
+Na	ADP	em o	case	145
+altura	NOUN	altura	nmod	989
+,	PUNCT	,	punct	0
+eram	AUX	ser	cop	518
+os	DET	o	det	18
+melhores	ADJ	bom	amod	364
+amigos	NOUN	amigo	ROOT	481
+do	ADP	de o	case	8
+mundo	NOUN	mundo	nmod	120
+para	ADP	para	case	11
+mim	PRON	eu	nmod	380
+.	PUNCT	.	punct	3
+
+Hoje	ADV	hoje	advmod	685
+em	ADP	em	case	10
+dia	NOUN	dia	nmod	67
+,	PUNCT	,	punct	0
+mantenho	VERB	mantenhar	ROOT	30547
+contacto	NOUN	contacto	obj	5248
+com	ADP	com	case	12
+um	NUM	um	nmod	13
+deles	PRON	de ele	nmod	562
+apenas	ADV	apenas	advmod	115
+,	PUNCT	,	punct	0
+por	SCONJ	por	mark	22
+vivermos	VERB	viver	advcl	27991
+na	ADP	em o	case	20
+mesma	ADJ	mesmo	amod	277
+zona	NOUN	zona	obl	1170
+.	PUNCT	.	punct	3
+
+Troco	PROPN	Troco	ROOT	62700
+mensagens	NOUN	mensagem	nsubj	2011
+de	ADP	de	case	2
+vez	NOUN	vez	nmod	108
+em	ADP	em	case	10
+quando	ADV	quando	advmod	71
+.	PUNCT	.	punct	3
+
+Com	ADP	com	case	150
+os	DET	o	det	18
+antigos	ADJ	antigo	amod	2274
+vizinhos	NOUN	vizinho	obl	3275
+também	ADV	também	advmod	48
+falo	VERB	falar	ROOT	5920
+,	PUNCT	,	punct	0
+mas	CCONJ	mas	cc	44
+o	DET	o	det	6
+contacto	NOUN	contacto	nsubj	5248
+é	AUX	ser	cop	14
+esporádico	ADJ	esporádico	conj	77046
+.	PUNCT	.	punct	3
+
+Algum	DET	Algum	det	18483
+professor	NOUN	professor	nsubj	795
+ou	CCONJ	ou	cc	33
+professora	NOUN	professora	conj	2302
+te	PRON	te	obj	398
+marcou	VERB	marcar	ROOT	3152
+de	ADP	de	case	2
+forma	NOUN	forma	obl	94
+especial	ADJ	especial	amod	436
+?	PUNCT	?	punct	49
+
+Durante	ADP	durante	case	871
+a	DET	o	det	5
+infância	NOUN	infância	obl	2343
+,	PUNCT	,	punct	0
+tive	VERB	ter	ROOT	1254
+professoras	NOUN	professora	obj	14787
+de	SCONJ	de	mark	2
+quem	PRON	quem	nsubj	129
+gostei	VERB	gostar	acl	2389
+muito	ADV	muito	advmod	50
+e	CCONJ	e	cc	4
+com	ADP	com	case	12
+quem	PRON	quem	obl	129
+ainda	ADV	ainda	advmod	68
+mantenho	VERB	mantenhar	conj	30547
+contacto	NOUN	contacto	obj	5248
+.	PUNCT	.	punct	3
+
+No	ADP	em o	cc	91
+entanto	NOUN	entanto	fixed	447
+,	PUNCT	,	punct	0
+as	DET	o	det	23
+figuras	NOUN	figura	nsubj	4238
+mais	ADV	mais	advmod	25
+marcantes	ADJ	marcante	amod	8440
+surgiram	VERB	surgir	ROOT	6675
+mais	ADV	mais	advmod	25
+tarde	ADV	tarde	advmod	450
+,	PUNCT	,	punct	0
+no	ADP	em o	case	16
+ensino	NOUN	ensino	obl	603
+secundário	ADJ	secundário	amod	7967
+.	PUNCT	.	punct	3
+
+Foi	SCONJ	foi	mark	344
+aí	ADV	aí	advmod	669
+que	SCONJ	que	mark	7
+senti	VERB	sentir	ROOT	3944
+uma	DET	um	det	15
+verdadeira	ADJ	verdadeiro	amod	1897
+influência	NOUN	influência	obj	1923
+na	ADP	em o	case	20
+minha	DET	meu	det	132
+vida	NOUN	vida	nmod	90
+.	PUNCT	.	punct	3
+
+Como	ADV	como	advmod	198
+era	VERB	ser	ROOT	95
+a	DET	o	det	5
+tua	ADJ	tuo	det	1433
+relação	NOUN	relação	nsubj	249
+com	ADP	com	case	12
+os	DET	o	det	18
+teus	DET	teu	det	5810
+pais	NOUN	pai	nmod	726
+e	CCONJ	e	cc	4
+irmãos	NOUN	irmão	conj	1926
+?	PUNCT	?	punct	49
+
+Sempre	ADV	sempre	advmod	1716
+fui	AUX	ser	cop	935
+uma	DET	um	det	15
+criança	NOUN	criança	ROOT	758
+muito	ADV	muito	advmod	50
+obediente	ADJ	obediente	amod	32036
+e	CCONJ	e	cc	4
+respeitadora	ADJ	respeitadora	conj	145722
+.	PUNCT	.	punct	3
+
+Tenho	VERB	ter	ROOT	1581
+duas	NUM	dois	nummod	177
+irmãs	NOUN	irmã	obj	6522
+,	PUNCT	,	punct	0
+mas	CCONJ	mas	cc	44
+sou	AUX	ser	cop	525
+mais	ADV	mais	advmod	25
+próxima	ADJ	próximo	conj	859
+de	ADP	de	case	2
+uma	NUM	um	obl	15
+delas	PRON	de elas	nmod	1164
+.	PUNCT	.	punct	3
+
+Apesar	ADV	apesar	case	891
+dos	DET	de o	det	30
+oito	NUM	oito	nummod	1381
+anos	NOUN	ano	ROOT	64
+que	PRON	que	nsubj	7
+nos	PRON	nós	obj	53
+separam	VERB	separ	acl:relcl	21917
+,	PUNCT	,	punct	0
+sempre	ADV	sempre	advmod	100
+nos	PRON	nós	case	53
+demos	VERB	der	advcl	13884
+muito	ADV	muito	advmod	50
+bem	ADV	bem	advmod	69
+.	PUNCT	.	punct	3
+
+Ela	PRON	ela	nsubj	448
+nunca	ADV	nunca	advmod	271
+me	PRON	eu	obj	86
+excluía	VERB	excluír	ROOT	102338
+das	ADP	de o	case	34
+brincadeiras	NOUN	brincadeira	obj	6498
+nem	CCONJ	nem	cc	180
+da	ADP	de o	case	9
+sua	DET	seu	det	37
+vida	NOUN	vida	conj	90
+social	ADJ	social	amod	316
+,	PUNCT	,	punct	0
+o	PRON	o	appos	6
+que	PRON	que	fixed	7
+,	PUNCT	,	punct	0
+olhando	VERB	olhar	advcl	4383
+agora	ADV	agora	advmod	193
+,	PUNCT	,	punct	0
+percebo	VERB	percebar	advcl	11337
+que	SCONJ	que	mark	7
+era	AUX	ser	cop	95
+algo	PRON	algo	ccomp	284
+pouco	ADV	pouco	advmod	182
+comum	ADJ	comum	amod	643
+.	PUNCT	.	punct	3
+
+Havia	VERB	Havia	ROOT	6844
+alguma	DET	algum	det	410
+tradição	NOUN	tradição	obj	2169
+ou	CCONJ	ou	cc	33
+costume	NOUN	costume	conj	5536
+familiar	ADJ	familiar	amod	1938
+que	PRON	que	mark	7
+te	PRON	te	nsubj	398
+fosse	AUX	ser	cop	654
+especial	ADJ	especial	ccomp	436
+?	PUNCT	?	punct	49
+
+Sim	ADV	sim	advmod	1545
+,	PUNCT	,	punct	0
+por	ADP	por	advmod	22
+exemplo	NOUN	exemplo	fixed	228
+,	PUNCT	,	punct	0
+no	ADP	em o	case	16
+primeiro	ADJ	primeiro	amod	153
+fim	NOUN	fim	obl	236
+de	ADP	de	case	2
+semana	NOUN	semana	nmod	286
+do	ADP	de o	case	8
+ano	NOUN	ano	nmod	93
+,	PUNCT	,	punct	0
+costumávamos	VERB	costumar	ROOT	95663
+ir	VERB	ir	xcomp	439
+à	ADP	a o	case	43
+praia	NOUN	praia	obl	1192
+.	PUNCT	.	punct	3
+
+Era	AUX	ser	cop	1387
+um	DET	um	det	13
+passeio	NOUN	passeio	ROOT	2351
+que	PRON	que	obj	7
+eu	PRON	eu	nsubj	63
+adorava	VERB	adorar	acl:relcl	16405
+,	PUNCT	,	punct	0
+mas	CCONJ	mas	cc	44
+que	PRON	que	mark	7
+,	PUNCT	,	punct	0
+com	ADP	com	case	12
+o	DET	o	det	6
+tempo	NOUN	tempo	obl	85
+,	PUNCT	,	punct	0
+deixámos	VERB	deixar	conj	71286
+de	SCONJ	de	mark	2
+fazer	VERB	fazer	xcomp	82
+.	PUNCT	.	punct	3
+
+No	ADP	em o	cc	91
+entanto	NOUN	entanto	fixed	447
+,	PUNCT	,	punct	0
+há	VERB	haver	advcl	114
+um	DET	um	det	13
+costume	NOUN	costume	obj	5536
+que	PRON	que	nsubj	7
+ainda	ADV	ainda	advmod	68
+mantemos	VERB	manter	acl:relcl	30239
+:	PUNCT	:	punct	27
+aos	ADP	a o	case	81
+sábados	NOUN	sábado	obl	7719
+,	PUNCT	,	punct	0
+jantamos	VERB	jantar	ROOT	75275
+quase	ADV	quase	advmod	303
+sempre	ADV	sempre	advmod	100
+pizza	NOUN	pizza	xcomp	8934
+–	PUNCT	–	punct	61
+é	AUX	ser	cop	14
+um	DET	um	det	13
+ritual	NOUN	ritual	parataxis	8311
+simples	ADJ	simples	amod	368
+,	PUNCT	,	punct	0
+mas	CCONJ	mas	cc	44
+muito	ADV	muito	advmod	50
+especial	ADJ	especial	conj	436
+.	PUNCT	.	punct	3
+
+Havia	VERB	Havia	ROOT	6844
+alguma	DET	algum	det	410
+época	NOUN	época	obj	471
+do	ADP	de o	case	8
+ano	NOUN	ano	nmod	93
+particularmente	ADV	particularmente	advmod	3586
+especial	ADJ	especial	amod	436
+para	ADP	para	case	11
+ti	PRON	ti	nmod	3441
+?	PUNCT	?	punct	49
+
+A	DET	o	det	31
+Páscoa	PROPN	MISC	nsubj	6591
+sempre	ADV	sempre	advmod	100
+foi	AUX	ser	cop	35
+muito	ADV	muito	advmod	50
+importante	ADJ	importante	ROOT	241
+para	ADP	para	case	11
+mim	PRON	eu	obl	380
+.	PUNCT	.	punct	3
+
+Nesse	ADP	em esse	case	1231
+dia	NOUN	dia	obl	67
+,	PUNCT	,	punct	0
+visitamos	VERB	visitar	ROOT	24380
+várias	DET	várias	det	377
+casas	NOUN	casa	obj	1244
+de	ADP	de	case	2
+familiares	NOUN	familiar	nmod	1821
+–	PUNCT	–	punct	61
+é	AUX	ser	cop	14
+uma	DET	um	det	15
+verdadeira	ADJ	verdadeiro	amod	1897
+maratona	NOUN	maratona	dep	11196
+familiar	ADJ	familiar	amod	1938
+.	PUNCT	.	punct	3
+
+Apesar	ADV	apesar	mark	891
+de	ADP	de	fixed	2
+ser	AUX	ser	cop	36
+cansativo	ADJ	cansativo	advcl	17861
+,	PUNCT	,	punct	0
+é	AUX	ser	cop	14
+um	NUM	um	det	13
+dia	NOUN	dia	ROOT	67
+muito	ADV	muito	advmod	50
+feliz	ADJ	feliz	amod	952
+,	PUNCT	,	punct	0
+cheio	ADJ	cheio	amod	2035
+de	ADP	de	case	2
+união	NOUN	união	obl	2880
+e	CCONJ	e	cc	4
+alegria	NOUN	alegria	conj	1507
+.	PUNCT	.	punct	3
+
+A	ADP	a	case	31
+cada	DET	cada	det	104
+ano	NOUN	ano	obl	93
+que	PRON	que	nsubj	7
+passa	VERB	passar	acl:relcl	683
+,	PUNCT	,	punct	0
+torna-se	VERB	tornar se	ROOT	3970
+mais	ADV	mais	advmod	25
+especial	ADJ	especial	xcomp	436
+,	PUNCT	,	punct	0
+especialmente	ADV	especialmente	advmod	916
+com	ADP	com	case	12
+as	DET	o	det	23
+novas	ADJ	novo	amod	459
+casas	NOUN	casa	obl	1244
+e	CCONJ	e	cc	4
+membros	NOUN	membro	conj	898
+da	ADP	de o	case	9
+família	NOUN	família	nmod	263
+.	PUNCT	.	punct	3
+
+Qual	PRON	qual	ROOT	2393
+era	AUX	ser	cop	95
+o	DET	o	det	6
+momento	NOUN	momento	nsubj	201
+mais	ADV	mais	advmod	25
+esperado	ADJ	esperado	amod	4114
+do	ADP	de o	case	8
+ano	NOUN	ano	obl	93
+para	ADP	para	case	11
+ti	PRON	ti	nmod	3441
+em	ADP	em	case	10
+criança	NOUN	criança	obl	758
+?	PUNCT	?	punct	49
+
+O	DET	o	det	28
+meu	DET	meu	det	137
+aniversário	NOUN	aniversário	ROOT	2146
+,	PUNCT	,	punct	0
+sem	ADP	sem	case	74
+dúvida	NOUN	dúvida	nmod	1103
+!	PUNCT	!	punct	38
+
+Como	ADV	como	advmod	198
+fazia	VERB	fazer	advcl	1933
+anos	NOUN	ano	obj	64
+no	ADP	em o	case	16
+Verão	PROPN	MISC	obl	3826
+,	PUNCT	,	punct	0
+podia	VERB	poder	ROOT	1878
+fazer	VERB	fazer	xcomp	82
+festas	NOUN	festa	obj	2215
+grandes	ADJ	grande	amod	323
+com	ADP	com	case	12
+os	DET	o	det	18
+meus	DET	meu	det	574
+amigos	NOUN	amigo	nmod	481
+,	PUNCT	,	punct	0
+e	CCONJ	e	cc	4
+havia	VERB	haver	conj	395
+sempre	ADV	sempre	advmod	100
+muito	ADV	muito	advmod	50
+para	SCONJ	para	mark	11
+fazer	VERB	fazer	advcl	82
+.	PUNCT	.	punct	3
+
+Adorava	VERB	Adorava	ROOT	54786
+planear	VERB	planear	xcomp	26726
+tudo	PRON	tudo	obj	109
+e	CCONJ	e	cc	4
+ser	AUX	ser	cop	36
+o	DET	o	det	6
+centro	NOUN	centro	conj	634
+das	ADP	de o	case	34
+atenções	NOUN	atenção	nmod	13334
+(	PUNCT	(	punct	19
+*	PUNCT	*	punct	389
+risos	NOUN	riso	appos	9467
+*	PUNCT	*	punct	389
+)	PUNCT	)	punct	17
+.	PUNCT	.	punct	3
+
+Era	AUX	ser	cop	1387
+o	DET	o	det	6
+meu	DET	meu	det	137
+dia	NOUN	dia	ROOT	67
+e	CCONJ	e	cc	4
+eu	PRON	eu	nsubj	63
+decidia	VERB	decider	conj	70086
+as	DET	o	det	23
+brincadeiras	NOUN	brincadeira	obj	6498
+.	PUNCT	.	punct	3
+
+Há	VERB	haver	ROOT	501
+alguma	DET	algum	det	410
+lembrança	NOUN	lembrança	obj	8047
+marcante	ADJ	marcante	amod	6850
+da	ADP	de o	case	9
+tua	DET	tuo	det	1433
+infância	NOUN	infância	nmod	2343
+que	PRON	que	nsubj	7
+gostarias	NOUN	gostaria	acl:relcl	116780
+de	SCONJ	de	mark	2
+partilhar	VERB	partilhar	xcomp	6768
+?	PUNCT	?	punct	49
+
+Lembro-me	VERB	Lembro-me	ROOT	16674
+especialmente	ADV	especialmente	advmod	916
+do	ADP	de o	case	8
+meu	DET	meu	det	137
+aniversário	NOUN	aniversário	obl	2146
+de	ADP	de	case	2
+7	NUM	7	nummod	394
+anos	NOUN	ano	nmod	64
+.	PUNCT	.	punct	3
+
+Fizemos	VERB	Fizemos	ROOT	12118
+um	DET	um	det	13
+piquenique	NOUN	piquenique	obj	24523
+junto	ADV	junto	advmod	502
+ao	ADP	a o	case	32
+rio	NOUN	rio	obl	1251
+,	PUNCT	,	punct	0
+brincámos	VERB	brincar	parataxis	293348
+imenso	ADV	imenso	advmod	5046
+,	PUNCT	,	punct	0
+nadámos	VERB	nadar	conj	18446744073709551615
+e	CCONJ	e	cc	4
+o	DET	o	det	6
+meu	DET	meu	det	137
+pai	NOUN	pai	nsubj	552
+ofereceu-me	VERB	ofereceu-me	conj	113490
+um	DET	um	det	13
+diário	NOUN	diário	obj	3558
+.	PUNCT	.	punct	3
+
+Também	ADV	também	advmod	629
+recebi	VERB	recebi	ROOT	5378
+um	DET	um	det	13
+ramo	NOUN	ramo	obj	3212
+de	ADP	de	case	2
+rosas	NOUN	rosa	nmod	11366
+vermelhas	ADJ	vermelho	amod	8994
+do	ADP	de o	case	8
+meu	DET	meu	nmod	137
+"	NOUN	"	flat:name	26
+namorado	NOUN	namorado	amod	3742
+"	PUNCT	"	punct	26
+da	ADP	de o	case	9
+altura	NOUN	altura	obl	989
+–	PUNCT	–	punct	61
+nunca	ADV	nunca	advmod	271
+me	PRON	eu	obj	86
+esquecerei	VERB	esquecer	parataxis	47448
+disso	PRON	de isso	obj	273
+!	PUNCT	!	punct	38
+
+Mais	ADV	mais	advmod	477
+tarde	ADV	tarde	advmod	450
+,	PUNCT	,	punct	0
+voltámos	VERB	voltar	ROOT	70997
+todos	PRON	todo	obj	75
+para	ADP	para	case	11
+minha	DET	meu	det	132
+casa	NOUN	casa	nmod	142
+e	CCONJ	e	cc	4
+continuámos	VERB	continuár	conj	133590
+a	SCONJ	a	mark	5
+brincar	VERB	brincar	xcomp	4420
+com	ADP	com	case	12
+o	DET	o	det	6
+meu	DET	meu	det	137
+cão	NOUN	cão	obl	4141
+.	PUNCT	.	punct	3
+
+Foi	AUX	ser	cop	344
+um	NUM	um	nummod	13
+dia	NOUN	dia	ROOT	67
+mesmo	ADJ	mesmo	advmod	66
+especial	ADJ	especial	amod	436
+.	PUNCT	.	punct	3
+

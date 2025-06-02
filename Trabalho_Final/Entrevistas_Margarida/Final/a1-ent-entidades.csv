@@ -1,0 +1,12 @@
+Entidade,Frequência
+tu	PROPN	tu	nsubj	2642,2
+Jardim	PROPN	LOC	obl	1790,2
+Solei	PROPN	LOC	obl	445243,1
+Páscoa	PROPN	MISC	obl	6591,1
+Olá	PROPN	Olá	appos	1457,1
+Olá	PROPN	LOC	advmod	1457,1
+Margarida	PROPN	PER	flat:name	11343,1
+Macaca	PROPN	MISC	nmod	65211,1
+Concelho de Barcelos	PROPN	LOC	nmod	500000,1
+Catarina	PROPN	PER	obl	2144,1
+Catarina	PROPN	PER	appos	2144,1

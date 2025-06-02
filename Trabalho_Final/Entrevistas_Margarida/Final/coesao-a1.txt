@@ -1,0 +1,8 @@
+aditivos: 76
+adversativos: 12
+conclusivos: 16
+explicativos: 11
+temporais: 9
+condicionais: 9
+concessivos: 0
+causais: 21

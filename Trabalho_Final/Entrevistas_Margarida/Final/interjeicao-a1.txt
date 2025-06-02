@@ -1,0 +1,10 @@
+então: 25
+ora: 2
+bem: 5
+assim: 16
+tipo: 3
+coisa: 8
+basicamente: 1
+coisas: 3
+ah: 3
+olha: 1

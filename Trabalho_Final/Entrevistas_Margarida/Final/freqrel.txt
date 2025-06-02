@@ -1,0 +1,43 @@
+Frequencias relativas das top 20 palavras (a1.txt):
+eu	31	0.0251
+é	30	0.0243
+então	25	0.0202
+sempre	24	0.0194
+era	24	0.0194
+mais	20	0.0162
+entrevistadora	19	0.0154
+infância	18	0.0146
+entrevistado	18	0.0146
+muito	17	0.0138
+assim	16	0.0129
+minha	14	0.0113
+foi	14	0.0113
+casa	14	0.0113
+não	13	0.0105
+meus	13	0.0105
+dia	13	0.0105
+acho	13	0.0105
+mas	12	0.0097
+mesmo	12	0.0097
+
+Frequencias relativas das top 20 palavras (b2.txt):
+era	13	0.0211
+muito	12	0.0195
+me	11	0.0179
+sempre	10	0.0163
+meu	10	0.0163
+infância	8	0.0130
+mais	8	0.0130
+é	8	0.0130
+como	7	0.0114
+especial	7	0.0114
+dia	7	0.0114
+mas	6	0.0098
+casa	6	0.0098
+meus	6	0.0098
+minha	6	0.0098
+hoje	5	0.0081
+ainda	5	0.0081
+tua	5	0.0081
+adorava	5	0.0081
+ser	4	0.0065
