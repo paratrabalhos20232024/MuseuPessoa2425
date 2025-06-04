@@ -8,6 +8,7 @@
 ### Entrevista a João Pedro (B2)
 
 #### Ficheiros
+##### Título da entrevista - Memórias de Infância.
 
 **Título da entrevista** - Memórias de Infância.
 
@@ -22,6 +23,7 @@
 ### Entrevista a Carina Faria (B1)
 
 #### Ficheiros
+##### Título da entrevista - Memórias de Infância.
 
 **Título da entrevista** - Memórias de Infância.
 
@@ -32,3 +34,31 @@
 **Entrevista_CarinaFaria.md** - Aqui encontra-se a entrevista transcrita e final à Carina Faria.
 
 **Foto_Carina.png** , **Foto_Carina_Irmao.pnj** , **Foto_Carina_Primos.pnj** , **Carina_Entrevistadora.pnj** - Fotografias associadas não só às memórias de infância de Carina Faria, mas também uma fotografia tirada com a entrevistadora.
+
+## Entrevistas mMrgarida
+### Entrevista a Catarina Miranda (A1)
+
+#### Ficheiros
+##### Título da entrevista - Memórias de Infância.
+
+**audio_a1.mp3** - Aúdio da entrevista.
+
+**a1.txt** - Transcrição feita inicialmente com IA, mas foram feitas correção e mudanças na estrutura.
+
+**entrevista_a1.md** - Aqui encontra-se a entrevista transcrita e final.
+
+**infancia_Catarina.jpg**, **infancia_Catarina2.jpg** - Fotografia da Catarina quando era crinaça.
+
+### Entrevista a Catarina Pereira (A2)
+
+#### Ficheiros
+##### Título da entrevista - Memórias de Infância.
+
+**audio_a2.mp3** - Aúdio da entrevista.
+
+**a2.txt** - Transcrição feita inicialmente com IA, mas foram feitas correção e mudanças na estrutura.
+
+**entrevista_a2.md** - Aqui encontra-se a entrevista transcrita e final.
+
+**Catarina_criança.jpg** - Fotografia da Catarina quando era crinaça.
+
