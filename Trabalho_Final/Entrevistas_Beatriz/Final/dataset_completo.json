@@ -1,0 +1,738 @@
+[
+    {
+        "participante": "B1",
+        "tabela_sentimento": [
+            {
+                "Trecho": 1,
+                "Palavras": 16,
+                "Blocos": 2,
+                "Positivos": 2,
+                "Negativos": 0,
+                "Diferença (Pos - Neg)": 2,
+                "Dif/Palavras": 0.125,
+                "Média Estrelas": 5.0
+            },
+            {
+                "Trecho": 2,
+                "Palavras": 157,
+                "Blocos": 16,
+                "Positivos": 6,
+                "Negativos": 6,
+                "Diferença (Pos - Neg)": 0,
+                "Dif/Palavras": 0.0,
+                "Média Estrelas": 3.06
+            },
+            {
+                "Trecho": 3,
+                "Palavras": 234,
+                "Blocos": 24,
+                "Positivos": 10,
+                "Negativos": 10,
+                "Diferença (Pos - Neg)": 0,
+                "Dif/Palavras": 0.0,
+                "Média Estrelas": 3.08
+            },
+            {
+                "Trecho": 4,
+                "Palavras": 184,
+                "Blocos": 19,
+                "Positivos": 9,
+                "Negativos": 7,
+                "Diferença (Pos - Neg)": 2,
+                "Dif/Palavras": 0.0109,
+                "Média Estrelas": 3.21
+            },
+            {
+                "Trecho": 5,
+                "Palavras": 216,
+                "Blocos": 22,
+                "Positivos": 8,
+                "Negativos": 8,
+                "Diferença (Pos - Neg)": 0,
+                "Dif/Palavras": 0.0,
+                "Média Estrelas": 3.05
+            },
+            {
+                "Trecho": 6,
+                "Palavras": 177,
+                "Blocos": 18,
+                "Positivos": 11,
+                "Negativos": 6,
+                "Diferença (Pos - Neg)": 5,
+                "Dif/Palavras": 0.0282,
+                "Média Estrelas": 3.72
+            },
+            {
+                "Trecho": 7,
+                "Palavras": 1,
+                "Blocos": 1,
+                "Positivos": 0,
+                "Negativos": 0,
+                "Diferença (Pos - Neg)": 0,
+                "Dif/Palavras": 0.0,
+                "Média Estrelas": 3.0
+            },
+            {
+                "Trecho": 8,
+                "Palavras": 242,
+                "Blocos": 25,
+                "Positivos": 4,
+                "Negativos": 11,
+                "Diferença (Pos - Neg)": -7,
+                "Dif/Palavras": -0.0289,
+                "Média Estrelas": 2.76
+            },
+            {
+                "Trecho": 9,
+                "Palavras": 266,
+                "Blocos": 27,
+                "Positivos": 14,
+                "Negativos": 9,
+                "Diferença (Pos - Neg)": 5,
+                "Dif/Palavras": 0.0188,
+                "Média Estrelas": 3.48
+            },
+            {
+                "Trecho": 10,
+                "Palavras": 1,
+                "Blocos": 1,
+                "Positivos": 0,
+                "Negativos": 0,
+                "Diferença (Pos - Neg)": 0,
+                "Dif/Palavras": 0.0,
+                "Média Estrelas": 3.0
+            },
+            {
+                "Trecho": 11,
+                "Palavras": 92,
+                "Blocos": 10,
+                "Positivos": 4,
+                "Negativos": 3,
+                "Diferença (Pos - Neg)": 1,
+                "Dif/Palavras": 0.0109,
+                "Média Estrelas": 3.1
+            },
+            {
+                "Trecho": 12,
+                "Palavras": 281,
+                "Blocos": 29,
+                "Positivos": 11,
+                "Negativos": 10,
+                "Diferença (Pos - Neg)": 1,
+                "Dif/Palavras": 0.0036,
+                "Média Estrelas": 3.17
+            },
+            {
+                "Trecho": 13,
+                "Palavras": 143,
+                "Blocos": 15,
+                "Positivos": 12,
+                "Negativos": 3,
+                "Diferença (Pos - Neg)": 9,
+                "Dif/Palavras": 0.0629,
+                "Média Estrelas": 4.2
+            },
+            {
+                "Trecho": 14,
+                "Palavras": 3,
+                "Blocos": 2,
+                "Positivos": 1,
+                "Negativos": 1,
+                "Diferença (Pos - Neg)": 0,
+                "Dif/Palavras": 0.0,
+                "Média Estrelas": 2.5
+            },
+            {
+                "Trecho": 15,
+                "Palavras": 337,
+                "Blocos": 34,
+                "Positivos": 10,
+                "Negativos": 15,
+                "Diferença (Pos - Neg)": -5,
+                "Dif/Palavras": -0.0148,
+                "Média Estrelas": 2.82
+            },
+            {
+                "Trecho": 16,
+                "Palavras": 322,
+                "Blocos": 33,
+                "Positivos": 16,
+                "Negativos": 10,
+                "Diferença (Pos - Neg)": 6,
+                "Dif/Palavras": 0.0186,
+                "Média Estrelas": 3.39
+            },
+            {
+                "Trecho": 17,
+                "Palavras": 1,
+                "Blocos": 1,
+                "Positivos": 0,
+                "Negativos": 0,
+                "Diferença (Pos - Neg)": 0,
+                "Dif/Palavras": 0.0,
+                "Média Estrelas": 3.0
+            },
+            {
+                "Trecho": 18,
+                "Palavras": 14,
+                "Blocos": 2,
+                "Positivos": 2,
+                "Negativos": 0,
+                "Diferença (Pos - Neg)": 2,
+                "Dif/Palavras": 0.1429,
+                "Média Estrelas": 5.0
+            }
+        ],
+        "entidades": [
+            {
+                "frequencia": 4,
+                "texto": "Natal",
+                "tipo": "MISC"
+            },
+            {
+                "frequencia": 4,
+                "texto": "Mãe",
+                "tipo": "PROPN"
+            },
+            {
+                "frequencia": 3,
+                "texto": "Ronfe",
+                "tipo": "LOC"
+            },
+            {
+                "frequencia": 3,
+                "texto": "Carina",
+                "tipo": "PER"
+            },
+            {
+                "frequencia": 2,
+                "texto": "Póvoa Varzim",
+                "tipo": "LOC"
+            },
+            {
+                "frequencia": 1,
+                "texto": "praia",
+                "tipo": "LOC"
+            },
+            {
+                "frequencia": 1,
+                "texto": "fez-me",
+                "tipo": "VERB"
+            },
+            {
+                "frequencia": 1,
+                "texto": "em",
+                "tipo": "PROPN"
+            },
+            {
+                "frequencia": 1,
+                "texto": "Winx",
+                "tipo": "ORG"
+            },
+            {
+                "frequencia": 1,
+                "texto": "Terra",
+                "tipo": "LOC"
+            },
+            {
+                "frequencia": 1,
+                "texto": "Pus",
+                "tipo": "VERB"
+            },
+            {
+                "frequencia": 1,
+                "texto": "Portugal",
+                "tipo": "LOC"
+            },
+            {
+                "frequencia": 1,
+                "texto": "Olá",
+                "tipo": "PROPN"
+            },
+            {
+                "frequencia": 1,
+                "texto": "Oh",
+                "tipo": "PROPN"
+            },
+            {
+                "frequencia": 1,
+                "texto": "Nesquik",
+                "tipo": "MISC"
+            },
+            {
+                "frequencia": 1,
+                "texto": "Monster",
+                "tipo": "PROPN"
+            },
+            {
+                "frequencia": 1,
+                "texto": "Joane",
+                "tipo": "LOC"
+            },
+            {
+                "frequencia": 1,
+                "texto": "Hospital Famalicão",
+                "tipo": "LOC"
+            },
+            {
+                "frequencia": 1,
+                "texto": "Guimarães",
+                "tipo": "LOC"
+            },
+            {
+                "frequencia": 1,
+                "texto": "Egito",
+                "tipo": "LOC"
+            },
+            {
+                "frequencia": 1,
+                "texto": "Diogo",
+                "tipo": "PER"
+            },
+            {
+                "frequencia": 1,
+                "texto": "Cleo",
+                "tipo": "PER"
+            },
+            {
+                "frequencia": 1,
+                "texto": "Carlos",
+                "tipo": "PROPN"
+            },
+            {
+                "frequencia": 1,
+                "texto": "Beatriz",
+                "tipo": "PROPN"
+            }
+        ],
+        "keywords": [
+            "# Entrevista_B1.txt",
+            "dia típico",
+            "escola primária",
+            "bons momentos felizes",
+            "postura super rígida",
+            "Oh Carina",
+            "avó materna",
+            "casa",
+            "infância",
+            "momentos familiares",
+            "crianças",
+            "leite normal",
+            "super divertido",
+            "super rígido",
+            "super chateada",
+            "ano",
+            "pais",
+            "brincadeira",
+            "primeiros amigos",
+            "pequeno campo",
+            "exames finais",
+            "irmão",
+            "pequena ligação",
+            "pequena introdução",
+            "neve",
+            "café",
+            "mãe",
+            "Mãe Natureza",
+            "pequeno almoço",
+            "termos",
+            "sopa"
+        ],
+        "frequencia_absoluta": [
+            "Palavras frequentes B1:",
+            "Top 20 palavras mais frequentes:",
+            "1. era - 60 (0.0292)",
+            "2. da - 41 (0.0200)",
+            "3. porque - 37 (0.0180)",
+            "4. muito - 33 (0.0161)",
+            "5. n�s - 26 (0.0127)",
+            "6. l� - 25 (0.0122)",
+            "7. dia - 24 (0.0117)",
+            "8. ent�o - 23 (0.0112)",
+            "9. meus - 22 (0.0107)",
+            "10. do - 20 (0.0097)",
+            "11. assim - 20 (0.0097)",
+            "12. inf�ncia - 19 (0.0093)",
+            "13. escola - 19 (0.0093)",
+            "14. ao - 17 (0.0083)",
+            "15. j� - 17 (0.0083)",
+            "16. pais - 16 (0.0078)",
+            "17. pronto - 16 (0.0078)",
+            "18. sempre - 16 (0.0078)",
+            "19. m�e - 15 (0.0073)",
+            "20. casa - 14 (0.0068)"
+        ],
+        "linhas_palavras": [
+            "O arquivo 'Entrevista_B1.txt' tem 176 linhas e 3241 palavras."
+        ],
+        "interjeicoes": {
+            "então": 24,
+            "ora": 2,
+            "basicamente": 2,
+            "pronto": 16,
+            "bem": 9,
+            "claro": 3,
+            "assim": 20,
+            "literalmente": 1,
+            "tipo": 3,
+            "coisas": 2,
+            "realmente": 8,
+            "ok": 3,
+            "coisa": 2,
+            "ah": 1,
+            "digo": 1,
+            "olha": 1,
+            "logo": 1,
+            "isto": 1
+        },
+        "palavras_frequentes": {
+            "era": 60,
+            "da": 41,
+            "porque": 37,
+            "muito": 33,
+            "n�s": 26,
+            "l�": 25,
+            "dia": 24,
+            "ent�o": 23,
+            "meus": 22,
+            "do": 20,
+            "assim": 20,
+            "inf�ncia": 19,
+            "escola": 19,
+            "ao": 17,
+            "j�": 17,
+            "pais": 16,
+            "pronto": 16,
+            "sempre": 16,
+            "m�e": 15,
+            "casa": 14
+        },
+        "tempos_verbais": {
+            "Cnd": 8,
+            "Fut": 11,
+            "Ind": 297,
+            "Pres": 111,
+            "Past": 88,
+            "Imp": 104,
+            "Sub": 20,
+            "Pqp": 1
+        }
+    },
+    {
+        "participante": "B2",
+        "tabela_sentimento": [
+            {
+                "Trecho": 1,
+                "Palavras": 9,
+                "Blocos": 1,
+                "Positivos": 1,
+                "Negativos": 0,
+                "Diferença (Pos - Neg)": 1,
+                "Dif/Palavras": 0.1111,
+                "Média Estrelas": 5.0
+            },
+            {
+                "Trecho": 2,
+                "Palavras": 170,
+                "Blocos": 17,
+                "Positivos": 5,
+                "Negativos": 3,
+                "Diferença (Pos - Neg)": 2,
+                "Dif/Palavras": 0.0118,
+                "Média Estrelas": 3.24
+            },
+            {
+                "Trecho": 3,
+                "Palavras": 190,
+                "Blocos": 19,
+                "Positivos": 7,
+                "Negativos": 8,
+                "Diferença (Pos - Neg)": -1,
+                "Dif/Palavras": -0.0053,
+                "Média Estrelas": 3.0
+            },
+            {
+                "Trecho": 4,
+                "Palavras": 125,
+                "Blocos": 13,
+                "Positivos": 3,
+                "Negativos": 8,
+                "Diferença (Pos - Neg)": -5,
+                "Dif/Palavras": -0.04,
+                "Média Estrelas": 2.62
+            },
+            {
+                "Trecho": 5,
+                "Palavras": 169,
+                "Blocos": 17,
+                "Positivos": 7,
+                "Negativos": 7,
+                "Diferença (Pos - Neg)": 0,
+                "Dif/Palavras": 0.0,
+                "Média Estrelas": 3.24
+            },
+            {
+                "Trecho": 6,
+                "Palavras": 83,
+                "Blocos": 9,
+                "Positivos": 4,
+                "Negativos": 1,
+                "Diferença (Pos - Neg)": 3,
+                "Dif/Palavras": 0.0361,
+                "Média Estrelas": 3.67
+            },
+            {
+                "Trecho": 7,
+                "Palavras": 156,
+                "Blocos": 16,
+                "Positivos": 11,
+                "Negativos": 1,
+                "Diferença (Pos - Neg)": 10,
+                "Dif/Palavras": 0.0641,
+                "Média Estrelas": 4.25
+            },
+            {
+                "Trecho": 8,
+                "Palavras": 161,
+                "Blocos": 17,
+                "Positivos": 6,
+                "Negativos": 2,
+                "Diferença (Pos - Neg)": 4,
+                "Dif/Palavras": 0.0248,
+                "Média Estrelas": 3.59
+            },
+            {
+                "Trecho": 9,
+                "Palavras": 177,
+                "Blocos": 18,
+                "Positivos": 14,
+                "Negativos": 1,
+                "Diferença (Pos - Neg)": 13,
+                "Dif/Palavras": 0.0734,
+                "Média Estrelas": 4.44
+            },
+            {
+                "Trecho": 10,
+                "Palavras": 154,
+                "Blocos": 16,
+                "Positivos": 9,
+                "Negativos": 3,
+                "Diferença (Pos - Neg)": 6,
+                "Dif/Palavras": 0.039,
+                "Média Estrelas": 3.81
+            },
+            {
+                "Trecho": 11,
+                "Palavras": 91,
+                "Blocos": 10,
+                "Positivos": 6,
+                "Negativos": 0,
+                "Diferença (Pos - Neg)": 6,
+                "Dif/Palavras": 0.0659,
+                "Média Estrelas": 4.0
+            },
+            {
+                "Trecho": 12,
+                "Palavras": 472,
+                "Blocos": 48,
+                "Positivos": 8,
+                "Negativos": 30,
+                "Diferença (Pos - Neg)": -22,
+                "Dif/Palavras": -0.0466,
+                "Média Estrelas": 2.23
+            },
+            {
+                "Trecho": 13,
+                "Palavras": 221,
+                "Blocos": 23,
+                "Positivos": 11,
+                "Negativos": 6,
+                "Diferença (Pos - Neg)": 5,
+                "Dif/Palavras": 0.0226,
+                "Média Estrelas": 3.48
+            },
+            {
+                "Trecho": 14,
+                "Palavras": 1,
+                "Blocos": 1,
+                "Positivos": 1,
+                "Negativos": 0,
+                "Diferença (Pos - Neg)": 1,
+                "Dif/Palavras": 1.0,
+                "Média Estrelas": 5.0
+            },
+            {
+                "Trecho": 15,
+                "Palavras": 2,
+                "Blocos": 1,
+                "Positivos": 1,
+                "Negativos": 0,
+                "Diferença (Pos - Neg)": 1,
+                "Dif/Palavras": 0.5,
+                "Média Estrelas": 4.0
+            }
+        ],
+        "entidades": [
+            {
+                "frequencia": 3,
+                "texto": "Natal",
+                "tipo": "MISC"
+            },
+            {
+                "frequencia": 2,
+                "texto": "Rego",
+                "tipo": "LOC"
+            },
+            {
+                "frequencia": 2,
+                "texto": "Playstation",
+                "tipo": "MISC"
+            },
+            {
+                "frequencia": 1,
+                "texto": "tratava-nos",
+                "tipo": "tratava-nos"
+            },
+            {
+                "frequencia": 1,
+                "texto": "Yu-Gi-Oh!",
+                "tipo": "MISC"
+            },
+            {
+                "frequencia": 1,
+                "texto": "WWE",
+                "tipo": "ORG"
+            },
+            {
+                "frequencia": 1,
+                "texto": "Rego",
+                "tipo": "PER"
+            },
+            {
+                "frequencia": 1,
+                "texto": "Playstation",
+                "tipo": "PROPN"
+            },
+            {
+                "frequencia": 1,
+                "texto": "Obrigada",
+                "tipo": "obrigada"
+            },
+            {
+                "frequencia": 1,
+                "texto": "O",
+                "tipo": "PROPN"
+            },
+            {
+                "frequencia": 1,
+                "texto": "Mogege",
+                "tipo": "LOC"
+            },
+            {
+                "frequencia": 1,
+                "texto": "João",
+                "tipo": "MISC"
+            },
+            {
+                "frequencia": 1,
+                "texto": "Histórias",
+                "tipo": "MISC"
+            },
+            {
+                "frequencia": 1,
+                "texto": "Famalicão",
+                "tipo": "LOC"
+            },
+            {
+                "frequencia": 1,
+                "texto": "Beatriz",
+                "tipo": "PROPN"
+            }
+        ],
+        "keywords": [
+            "# Entrevista_B2.txt",
+            "escola pequena",
+            "escola primária",
+            "ano específico",
+            "bocado interessante",
+            "altura",
+            "décimo ano",
+            "canal Histórias juntos",
+            "casa",
+            "tradição especial",
+            "bocado forte",
+            "jogos juntos",
+            "pais",
+            "dia seguinte",
+            "sensação incrível",
+            "família",
+            "mesma professora",
+            "única turma",
+            "cheiro particular",
+            "dia típico",
+            "mesma aldeia",
+            "lembrança marcante",
+            "mesmas pessoas",
+            "Playstation 2",
+            "infância",
+            "engraçado",
+            "sítio tranquilo",
+            "pequeno almoço",
+            "colega",
+            "melhor amigo",
+            "vozes estridentes"
+        ],
+        "frequencia_absoluta": [
+            "",
+            "Palavras frequentes Jo�o:",
+            "Top 20 palavras mais frequentes:",
+            "1. era - 51 (0.0302)",
+            "2. muito - 29 (0.0172)",
+            "3. da - 28 (0.0166)",
+            "4. bastante - 27 (0.0160)",
+            "5. escola - 20 (0.0118)",
+            "6. n�s - 20 (0.0118)",
+            "7. at� - 18 (0.0107)",
+            "8. sua - 17 (0.0101)",
+            "9. l� - 16 (0.0095)",
+            "10. gostava - 15 (0.0089)",
+            "11. porque - 15 (0.0089)",
+            "12. sempre - 14 (0.0083)",
+            "13. me - 14 (0.0083)",
+            "14. altura - 13 (0.0077)",
+            "15. inf�ncia - 12 (0.0071)",
+            "16. ent�o - 12 (0.0071)",
+            "17. pronto - 10 (0.0059)",
+            "18. casa - 10 (0.0059)",
+            "19. fam�lia - 10 (0.0059)",
+            "20. do - 10 (0.0059)"
+        ],
+        "linhas_palavras": [
+            "O arquivo 'Entrevista_B2.txt' tem 156 linhas e 2676 palavras."
+        ],
+        "interjeicoes": {
+            "pronto": 10,
+            "tipo": 2,
+            "então": 12,
+            "basicamente": 1,
+            "coisas": 4,
+            "bem": 6,
+            "ok": 2,
+            "realmente": 5,
+            "claro": 2,
+            "assim": 1,
+            "logo": 2,
+            "coisa": 2
+        },
+        "palavras_frequentes": {},
+        "tempos_verbais": {
+            "Cnd": 10,
+            "Pres": 74,
+            "Ind": 246,
+            "Past": 82,
+            "Imp": 100,
+            "Sub": 19,
+            "Fut": 8
+        }
+    }
+]
