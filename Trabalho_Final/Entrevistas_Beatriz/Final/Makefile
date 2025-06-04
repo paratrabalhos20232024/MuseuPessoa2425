@@ -85,3 +85,6 @@ interjeicoes:
 tempos:
 	python tempos_txt.py Entrevista_B1.txt > tempos_B1.txt
 	python tempos_txt.py Entrevista_B2.txt > tempos_B2.txt
+
+dataset: 
+	python dataset.py
