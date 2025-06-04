@@ -8,7 +8,6 @@
 ### Entrevista a João Pedro (B2)
 
 #### Ficheiros
-##### Título da entrevista - Memórias de Infância.
 
 **Título da entrevista** - Memórias de Infância.
 
@@ -23,7 +22,6 @@
 ### Entrevista a Carina Faria (B1)
 
 #### Ficheiros
-##### Título da entrevista - Memórias de Infância.
 
 **Título da entrevista** - Memórias de Infância.
 
@@ -39,7 +37,8 @@
 ### Entrevista a Catarina Miranda (A1)
 
 #### Ficheiros
-##### Título da entrevista - Memórias de Infância.
+
+**Título da entrevista** - Memórias de Infância.
 
 **audio_a1.mp3** - Aúdio da entrevista.
 
@@ -52,7 +51,8 @@
 ### Entrevista a Catarina Pereira (A2)
 
 #### Ficheiros
-##### Título da entrevista - Memórias de Infância.
+
+**Título da entrevista** - Memórias de Infância.
 
 **audio_a2.mp3** - Aúdio da entrevista.
 
