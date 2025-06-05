@@ -33,7 +33,7 @@
 
 **Foto_Carina.png** , **Foto_Carina_Irmao.pnj** , **Foto_Carina_Primos.pnj** , **Carina_Entrevistadora.pnj** - Fotografias associadas não só às memórias de infância de Carina Faria, mas também uma fotografia tirada com a entrevistadora.
 
-## Entrevistas mMrgarida
+## Entrevistas Margarida
 ### Entrevista a Catarina Miranda (A1)
 
 #### Ficheiros
